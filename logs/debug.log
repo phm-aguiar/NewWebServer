@@ -1,0 +1,372 @@
+2024-10-24 13:18:48 - [INFO] Starting debug log...
+2024-10-24 13:18:48 - [DEBUG] Starting to parse config/testLocation.conf
+2024-10-24 13:18:48 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-24 13:18:48 - [DEBUG] Socket created
+2024-10-24 13:21:05 - [INFO] Starting debug log...
+2024-10-24 13:21:05 - [DEBUG] Starting to parse config/testLocation.conf
+2024-10-24 13:21:05 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-24 13:21:05 - [DEBUG] Socket created
+2024-10-24 13:21:46 - [INFO] Starting debug log...
+2024-10-24 13:21:46 - [DEBUG] Starting to parse config/testLocation.conf
+2024-10-24 13:21:46 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-24 13:21:46 - [DEBUG] Socket created
+2024-10-25 11:33:14 - [INFO] Starting debug log...
+2024-10-25 11:33:14 - [DEBUG] Starting to parse config/testLocation.conf
+2024-10-25 11:33:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 11:33:14 - [DEBUG] Socket created
+2024-10-25 11:33:50 - [INFO] Starting debug log...
+2024-10-25 11:33:50 - [DEBUG] Starting to parse config/testLocation.conf
+2024-10-25 11:33:50 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 11:33:50 - [DEBUG] Socket created
+2024-10-25 11:35:01 - [INFO] Starting debug log...
+2024-10-25 11:35:01 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 11:35:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 11:35:01 - [DEBUG] Socket created
+2024-10-25 11:35:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 11:35:01 - [DEBUG] Socket created
+2024-10-25 11:35:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 11:35:01 - [DEBUG] Socket created
+2024-10-25 11:35:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 11:35:01 - [DEBUG] Socket created
+2024-10-25 11:35:36 - [INFO] Starting debug log...
+2024-10-25 11:35:36 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 11:35:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 11:35:36 - [DEBUG] Socket created
+2024-10-25 11:35:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 11:35:36 - [DEBUG] Socket created
+2024-10-25 11:35:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 11:35:36 - [DEBUG] Socket created
+2024-10-25 11:35:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 11:35:36 - [DEBUG] Socket created
+2024-10-25 12:57:03 - [INFO] Starting debug log...
+2024-10-25 12:57:03 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 12:57:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 12:57:03 - [DEBUG] Socket created
+2024-10-25 12:57:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 12:57:03 - [DEBUG] Socket created
+2024-10-25 12:57:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 12:57:03 - [DEBUG] Socket created
+2024-10-25 12:57:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 12:57:03 - [DEBUG] Socket created
+2024-10-25 12:58:36 - [INFO] Starting debug log...
+2024-10-25 12:58:36 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 12:58:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 12:58:36 - [DEBUG] Socket created
+2024-10-25 12:58:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 12:58:36 - [DEBUG] Socket created
+2024-10-25 12:58:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 12:58:36 - [DEBUG] Socket created
+2024-10-25 12:58:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 12:58:36 - [DEBUG] Socket created
+2024-10-25 13:01:14 - [INFO] Starting debug log...
+2024-10-25 13:01:14 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:01:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:01:14 - [DEBUG] Socket created
+2024-10-25 13:01:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:01:14 - [DEBUG] Socket created
+2024-10-25 13:01:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:01:14 - [DEBUG] Socket created
+2024-10-25 13:01:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:01:14 - [DEBUG] Socket created
+2024-10-25 13:05:43 - [INFO] Starting debug log...
+2024-10-25 13:05:43 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:05:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:05:43 - [DEBUG] Socket created
+2024-10-25 13:05:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:05:43 - [DEBUG] Socket created
+2024-10-25 13:05:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:05:43 - [DEBUG] Socket created
+2024-10-25 13:05:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:05:43 - [DEBUG] Socket created
+2024-10-25 13:07:08 - [INFO] Starting debug log...
+2024-10-25 13:07:08 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:07:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:08 - [DEBUG] Socket created
+2024-10-25 13:07:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:08 - [DEBUG] Socket created
+2024-10-25 13:07:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:08 - [DEBUG] Socket created
+2024-10-25 13:07:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:08 - [DEBUG] Socket created
+2024-10-25 13:07:17 - [INFO] Starting debug log...
+2024-10-25 13:07:17 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:07:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:17 - [DEBUG] Socket created
+2024-10-25 13:07:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:17 - [DEBUG] Socket created
+2024-10-25 13:07:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:17 - [DEBUG] Socket created
+2024-10-25 13:07:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:17 - [DEBUG] Socket created
+2024-10-25 13:07:23 - [INFO] Starting debug log...
+2024-10-25 13:07:23 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:07:23 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:23 - [DEBUG] Socket created
+2024-10-25 13:07:23 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:23 - [DEBUG] Socket created
+2024-10-25 13:07:23 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:23 - [DEBUG] Socket created
+2024-10-25 13:07:23 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:23 - [DEBUG] Socket created
+2024-10-25 13:07:30 - [INFO] Starting debug log...
+2024-10-25 13:07:30 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:07:30 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:30 - [DEBUG] Socket created
+2024-10-25 13:07:30 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:30 - [DEBUG] Socket created
+2024-10-25 13:07:30 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:30 - [DEBUG] Socket created
+2024-10-25 13:07:30 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:07:30 - [DEBUG] Socket created
+2024-10-25 13:08:05 - [INFO] Starting debug log...
+2024-10-25 13:08:05 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:08:05 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:05 - [DEBUG] Socket created
+2024-10-25 13:08:05 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:05 - [DEBUG] Socket created
+2024-10-25 13:08:05 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:05 - [DEBUG] Socket created
+2024-10-25 13:08:05 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:05 - [DEBUG] Socket created
+2024-10-25 13:08:12 - [INFO] Starting debug log...
+2024-10-25 13:08:12 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:08:12 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:12 - [DEBUG] Socket created
+2024-10-25 13:08:12 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:12 - [DEBUG] Socket created
+2024-10-25 13:08:12 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:12 - [DEBUG] Socket created
+2024-10-25 13:08:12 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:12 - [DEBUG] Socket created
+2024-10-25 13:08:20 - [INFO] Starting debug log...
+2024-10-25 13:08:20 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:08:20 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:20 - [DEBUG] Socket created
+2024-10-25 13:08:20 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:20 - [DEBUG] Socket created
+2024-10-25 13:08:20 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:20 - [DEBUG] Socket created
+2024-10-25 13:08:20 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:08:20 - [DEBUG] Socket created
+2024-10-25 13:09:15 - [INFO] Starting debug log...
+2024-10-25 13:09:15 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:09:15 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:09:15 - [DEBUG] Socket created
+2024-10-25 13:09:15 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:09:15 - [DEBUG] Socket created
+2024-10-25 13:09:15 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:09:15 - [DEBUG] Socket created
+2024-10-25 13:09:15 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:09:15 - [DEBUG] Socket created
+2024-10-25 13:10:52 - [INFO] Starting debug log...
+2024-10-25 13:10:52 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:10:52 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:10:52 - [DEBUG] Socket created
+2024-10-25 13:10:52 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:10:52 - [DEBUG] Socket created
+2024-10-25 13:10:52 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:10:52 - [DEBUG] Socket created
+2024-10-25 13:10:52 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:10:52 - [DEBUG] Socket created
+2024-10-25 13:12:28 - [INFO] Starting debug log...
+2024-10-25 13:12:28 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:12:28 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:12:28 - [DEBUG] Socket created
+2024-10-25 13:12:28 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:12:28 - [DEBUG] Socket created
+2024-10-25 13:12:28 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:12:28 - [DEBUG] Socket created
+2024-10-25 13:12:28 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:12:28 - [DEBUG] Socket created
+2024-10-25 13:12:55 - [INFO] Starting debug log...
+2024-10-25 13:12:55 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:12:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:12:55 - [DEBUG] Socket created
+2024-10-25 13:12:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:12:55 - [DEBUG] Socket created
+2024-10-25 13:12:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:12:55 - [DEBUG] Socket created
+2024-10-25 13:12:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:12:55 - [DEBUG] Socket created
+2024-10-25 13:15:43 - [INFO] Starting debug log...
+2024-10-25 13:15:43 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:15:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:15:43 - [DEBUG] Socket created
+2024-10-25 13:15:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:15:43 - [DEBUG] Socket created
+2024-10-25 13:15:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:15:43 - [DEBUG] Socket created
+2024-10-25 13:15:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:15:43 - [DEBUG] Socket created
+2024-10-25 13:15:43 - [INFO] Server 2E4107CE[32mRunning[0mserverlegal1.com:8090
+2024-10-25 13:15:43 - [INFO] Server 866CA994[32mRunning[0mserverlegal1.com:8091
+2024-10-25 13:15:43 - [INFO] Server 092ACD9B[32mRunning[0mserverlegal1.com:8092
+2024-10-25 13:15:43 - [INFO] Server 0213794B[32mRunning[0mserverlegal1.com:8093
+2024-10-25 13:15:54 - [INFO] Starting debug log...
+2024-10-25 13:15:54 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:15:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:15:54 - [DEBUG] Socket created
+2024-10-25 13:15:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:15:54 - [DEBUG] Socket created
+2024-10-25 13:15:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:15:54 - [DEBUG] Socket created
+2024-10-25 13:15:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:15:54 - [DEBUG] Socket created
+2024-10-25 13:15:54 - [INFO] Server B24044E6[32m Running[0mserverlegal1.com:8090
+2024-10-25 13:15:54 - [INFO] Server 691E8165[32m Running[0mserverlegal1.com:8091
+2024-10-25 13:15:54 - [INFO] Server C1BBE7DE[32m Running[0mserverlegal1.com:8092
+2024-10-25 13:15:54 - [INFO] Server DD393528[32m Running[0mserverlegal1.com:8093
+2024-10-25 13:16:03 - [INFO] Starting debug log...
+2024-10-25 13:16:03 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:16:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:16:03 - [DEBUG] Socket created
+2024-10-25 13:16:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:16:03 - [DEBUG] Socket created
+2024-10-25 13:16:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:16:03 - [DEBUG] Socket created
+2024-10-25 13:16:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:16:03 - [DEBUG] Socket created
+2024-10-25 13:16:03 - [INFO] Server 57CED3A5[32m Running [0mserverlegal1.com:8090
+2024-10-25 13:16:03 - [INFO] Server 004EB87B[32m Running [0mserverlegal1.com:8091
+2024-10-25 13:16:03 - [INFO] Server D8D8BC70[32m Running [0mserverlegal1.com:8092
+2024-10-25 13:16:03 - [INFO] Server EB1CE47F[32m Running [0mserverlegal1.com:8093
+2024-10-25 13:16:14 - [INFO] Starting debug log...
+2024-10-25 13:16:14 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:16:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:16:14 - [DEBUG] Socket created
+2024-10-25 13:16:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:16:14 - [DEBUG] Socket created
+2024-10-25 13:16:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:16:14 - [DEBUG] Socket created
+2024-10-25 13:16:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:16:14 - [DEBUG] Socket created
+2024-10-25 13:16:15 - [INFO] Server 78E11B59[32m Running [0mserverlegal1.com:8090
+2024-10-25 13:16:15 - [INFO] Server 08589228[32m Running [0mserverlegal1.com:8091
+2024-10-25 13:16:15 - [INFO] Server 75A280BD[32m Running [0mserverlegal1.com:8092
+2024-10-25 13:16:15 - [INFO] Server FC046A3E[32m Running [0mserverlegal1.com:8093
+2024-10-25 13:22:08 - [INFO] Starting debug log...
+2024-10-25 13:22:08 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:22:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:08 - [DEBUG] Socket created
+2024-10-25 13:22:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:08 - [DEBUG] Socket created
+2024-10-25 13:22:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:08 - [DEBUG] Socket created
+2024-10-25 13:22:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:08 - [DEBUG] Socket created
+2024-10-25 13:22:08 - [INFO] Server EFB74C8D[32m Running [0mserverlegal1.com:8091
+2024-10-25 13:22:08 - [INFO] Server EFB74C8D[32m Running [0mserverlegal1.com:8092
+2024-10-25 13:22:08 - [INFO] Server EFB74C8D[32m Running [0mserverlegal1.com:8093
+2024-10-25 13:22:08 - [INFO] Server EFB74C8D[32m Running [0mserverlegal1.com:8090
+2024-10-25 13:22:29 - [INFO] Starting debug log...
+2024-10-25 13:22:29 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:22:29 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:29 - [DEBUG] Socket created
+2024-10-25 13:22:29 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:29 - [DEBUG] Socket created
+2024-10-25 13:22:29 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:29 - [DEBUG] Socket created
+2024-10-25 13:22:29 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:29 - [DEBUG] Socket created
+2024-10-25 13:22:29 - [INFO] Server 22900DD6[32m Running [0mserverlegal1.com:8090
+2024-10-25 13:22:29 - [INFO] Server 22900DD6[32m Running [0mserverlegal1.com:8092
+2024-10-25 13:22:29 - [INFO] Server 22900DD6[32m Running [0mserverlegal1.com:8093
+2024-10-25 13:22:29 - [INFO] Server 22900DD6[32m Running [0mserverlegal1.com:8091
+2024-10-25 13:22:37 - [INFO] Starting debug log...
+2024-10-25 13:22:37 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:22:37 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:37 - [DEBUG] Socket created
+2024-10-25 13:22:37 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:37 - [DEBUG] Socket created
+2024-10-25 13:22:37 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:37 - [DEBUG] Socket created
+2024-10-25 13:22:37 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:37 - [DEBUG] Socket created
+2024-10-25 13:22:37 - [INFO] Server A9CF0359[32m Running [0mserverlegal1.com:8090
+2024-10-25 13:22:37 - [INFO] Server A9CF0359[32m Running [0mserverlegal1.com:8091
+2024-10-25 13:22:37 - [INFO] Server A9CF0359[32m Running [0mserverlegal1.com:8092
+2024-10-25 13:22:37 - [INFO] Server A9CF0359[32m Running [0mserverlegal1.com:8093
+2024-10-25 13:22:47 - [INFO] Starting debug log...
+2024-10-25 13:22:47 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:22:47 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:47 - [DEBUG] Socket created
+2024-10-25 13:22:47 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:47 - [DEBUG] Socket created
+2024-10-25 13:22:47 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:47 - [DEBUG] Socket created
+2024-10-25 13:22:47 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:22:47 - [DEBUG] Socket created
+2024-10-25 13:22:48 - [INFO] Server B298304B[32m Running [0mserverlegal1.com:8090
+2024-10-25 13:22:49 - [INFO] Server B298304B[32m Running [0mserverlegal1.com:8091
+2024-10-25 13:22:50 - [INFO] Server B298304B[32m Running [0mserverlegal1.com:8092
+2024-10-25 13:22:51 - [INFO] Server B298304B[32m Running [0mserverlegal1.com:8093
+2024-10-25 13:23:31 - [INFO] Starting debug log...
+2024-10-25 13:23:31 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 13:23:31 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:23:31 - [DEBUG] Socket created
+2024-10-25 13:23:31 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:23:31 - [DEBUG] Socket created
+2024-10-25 13:23:31 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:23:31 - [DEBUG] Socket created
+2024-10-25 13:23:31 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 13:23:31 - [DEBUG] Socket created
+2024-10-25 13:23:31 - [INFO] Server 76931FAC[32m Running [0mserverlegal1.com:8090
+2024-10-25 13:23:32 - [INFO] Server 9DAB2B36[32m Running [0mserverlegal1.com:8091
+2024-10-25 13:23:32 - [INFO] Server C248B87D[32m Running [0mserverlegal1.com:8092
+2024-10-25 13:23:32 - [INFO] Server 6AE33F9A[32m Running [0mserverlegal1.com:8093
+2024-10-25 18:18:54 - [INFO] Starting debug log...
+2024-10-25 18:18:54 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 18:18:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:18:54 - [DEBUG] Socket created
+2024-10-25 18:18:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:18:54 - [DEBUG] Socket created
+2024-10-25 18:18:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:18:54 - [DEBUG] Socket created
+2024-10-25 18:18:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:18:54 - [DEBUG] Socket created
+2024-10-25 18:18:54 - [INFO] Server 76931FAC[32m Running [0mserverlegal1.com:8090
+2024-10-25 18:18:54 - [INFO] Server 9DAB2B36[32m Running [0mserverlegal1.com:8091
+2024-10-25 18:18:54 - [INFO] Server C248B87D[32m Running [0mserverlegal1.com:8092
+2024-10-25 18:18:54 - [INFO] Server 6AE33F9A[32m Running [0mserverlegal1.com:8093
+2024-10-25 18:31:20 - [INFO] Starting debug log...
+2024-10-25 18:31:20 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 18:31:20 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:31:20 - [DEBUG] Socket created
+2024-10-25 18:31:20 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:31:20 - [DEBUG] Socket created
+2024-10-25 18:31:20 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:31:20 - [DEBUG] Socket created
+2024-10-25 18:31:20 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:31:20 - [DEBUG] Socket created
+2024-10-25 18:31:20 - [INFO] Server 76931FAC[32m Running [0mserverlegal1.com:8090
+2024-10-25 18:31:21 - [INFO] Server 9DAB2B36[32m Running [0mserverlegal1.com:8091
+2024-10-25 18:31:21 - [INFO] Server C248B87D[32m Running [0mserverlegal1.com:8092
+2024-10-25 18:31:21 - [INFO] Server 6AE33F9A[32m Running [0mserverlegal1.com:8093
+2024-10-25 18:32:48 - [INFO] Starting debug log...
+2024-10-25 18:32:48 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 18:32:48 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:32:48 - [DEBUG] Socket created
+2024-10-25 18:32:49 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:32:49 - [DEBUG] Socket created
+2024-10-25 18:32:49 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:32:49 - [DEBUG] Socket created
+2024-10-25 18:32:49 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:32:49 - [DEBUG] Socket created
+2024-10-25 18:32:49 - [INFO] Server 76931FAC[32m Running [0mserverlegal1.com:8090
+2024-10-25 18:32:49 - [INFO] Server 9DAB2B36[32m Running [0mserverlegal1.com:8091
+2024-10-25 18:32:49 - [INFO] Server C248B87D[32m Running [0mserverlegal1.com:8092
+2024-10-25 18:32:49 - [INFO] Server 6AE33F9A[32m Running [0mserverlegal1.com:8093
+2024-10-25 18:38:53 - [INFO] Starting debug log...
+2024-10-25 18:38:53 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-25 18:38:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:38:54 - [DEBUG] Socket created
+2024-10-25 18:38:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:38:54 - [DEBUG] Socket created
+2024-10-25 18:38:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:38:54 - [DEBUG] Socket created
+2024-10-25 18:38:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-25 18:38:54 - [DEBUG] Socket created
+2024-10-25 18:38:54 - [INFO] Server 76931FAC[32m Running [0mserverlegal1.com:8090
+2024-10-25 18:38:54 - [INFO] Server 9DAB2B36[32m Running [0mserverlegal1.com:8091
+2024-10-25 18:38:54 - [INFO] Server C248B87D[32m Running [0mserverlegal1.com:8092
+2024-10-25 18:38:54 - [INFO] Server 6AE33F9A[32m Running [0mserverlegal1.com:8093
