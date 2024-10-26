@@ -370,3 +370,1147 @@
 2024-10-25 18:38:54 - [INFO] Server 9DAB2B36[32m Running [0mserverlegal1.com:8091
 2024-10-25 18:38:54 - [INFO] Server C248B87D[32m Running [0mserverlegal1.com:8092
 2024-10-25 18:38:54 - [INFO] Server 6AE33F9A[32m Running [0mserverlegal1.com:8093
+2024-10-26 12:59:22 - [INFO] Starting debug log...
+2024-10-26 12:59:22 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 12:59:22 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 12:59:22 - [DEBUG] Socket created
+2024-10-26 12:59:22 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 12:59:22 - [DEBUG] Socket created
+2024-10-26 12:59:22 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 12:59:22 - [DEBUG] Socket created
+2024-10-26 12:59:22 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 12:59:22 - [DEBUG] Socket created
+2024-10-26 12:59:22 - [DEBUG] Socket created
+2024-10-26 12:59:22 - [DEBUG] Socket options set
+2024-10-26 12:59:22 - [DEBUG] Binded to port 8090
+2024-10-26 12:59:22 - [DEBUG] Listening on port 8090
+2024-10-26 12:59:22 - [DEBUG] Socket created
+2024-10-26 12:59:22 - [DEBUG] Socket options set
+2024-10-26 12:59:22 - [DEBUG] Binded to port 8091
+2024-10-26 12:59:22 - [DEBUG] Listening on port 8091
+2024-10-26 12:59:22 - [DEBUG] Socket created
+2024-10-26 12:59:22 - [DEBUG] Socket options set
+2024-10-26 12:59:22 - [DEBUG] Binded to port 8092
+2024-10-26 12:59:22 - [DEBUG] Listening on port 8092
+2024-10-26 12:59:22 - [DEBUG] Socket created
+2024-10-26 12:59:22 - [DEBUG] Socket options set
+2024-10-26 12:59:22 - [DEBUG] Binded to port 8093
+2024-10-26 12:59:22 - [DEBUG] Listening on port 8093
+2024-10-26 13:00:08 - [INFO] Starting debug log...
+2024-10-26 13:00:08 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:00:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:00:08 - [DEBUG] Socket created
+2024-10-26 13:00:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:00:08 - [DEBUG] Socket created
+2024-10-26 13:00:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:00:08 - [DEBUG] Socket created
+2024-10-26 13:00:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:00:08 - [DEBUG] Socket created
+2024-10-26 13:00:08 - [DEBUG] Socket created
+2024-10-26 13:00:08 - [DEBUG] Socket options set
+2024-10-26 13:00:08 - [DEBUG] Binded to port 8090
+2024-10-26 13:00:08 - [DEBUG] Listening on port 8090
+2024-10-26 13:00:08 - [DEBUG] Socket created
+2024-10-26 13:00:08 - [DEBUG] Socket options set
+2024-10-26 13:00:08 - [DEBUG] Binded to port 8091
+2024-10-26 13:00:08 - [DEBUG] Listening on port 8091
+2024-10-26 13:00:08 - [DEBUG] Socket created
+2024-10-26 13:00:08 - [DEBUG] Socket options set
+2024-10-26 13:00:08 - [DEBUG] Binded to port 8092
+2024-10-26 13:00:08 - [DEBUG] Listening on port 8092
+2024-10-26 13:00:08 - [DEBUG] Socket created
+2024-10-26 13:00:08 - [DEBUG] Socket options set
+2024-10-26 13:00:08 - [DEBUG] Binded to port 8093
+2024-10-26 13:00:08 - [DEBUG] Listening on port 8093
+2024-10-26 13:01:11 - [INFO] Starting debug log...
+2024-10-26 13:01:11 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:01:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:01:11 - [DEBUG] Socket created
+2024-10-26 13:01:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:01:11 - [DEBUG] Socket created
+2024-10-26 13:01:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:01:11 - [DEBUG] Socket created
+2024-10-26 13:01:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:01:11 - [DEBUG] Socket created
+2024-10-26 13:01:11 - [DEBUG] Socket created
+2024-10-26 13:01:11 - [DEBUG] Socket options set
+2024-10-26 13:01:11 - [DEBUG] Binded to port 8090
+2024-10-26 13:01:11 - [DEBUG] Listening on port 8090
+2024-10-26 13:01:11 - [DEBUG] Socket created
+2024-10-26 13:01:11 - [DEBUG] Socket options set
+2024-10-26 13:01:11 - [DEBUG] Binded to port 8091
+2024-10-26 13:01:11 - [DEBUG] Listening on port 8091
+2024-10-26 13:01:11 - [DEBUG] Socket created
+2024-10-26 13:01:11 - [DEBUG] Socket options set
+2024-10-26 13:01:11 - [DEBUG] Binded to port 8092
+2024-10-26 13:01:11 - [DEBUG] Listening on port 8092
+2024-10-26 13:01:11 - [DEBUG] Socket created
+2024-10-26 13:01:11 - [DEBUG] Socket options set
+2024-10-26 13:01:11 - [DEBUG] Binded to port 8093
+2024-10-26 13:01:11 - [DEBUG] Listening on port 8093
+2024-10-26 13:03:26 - [INFO] Starting debug log...
+2024-10-26 13:03:26 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:03:27 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:03:27 - [DEBUG] Socket created
+2024-10-26 13:03:27 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:03:27 - [DEBUG] Socket created
+2024-10-26 13:03:27 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:03:27 - [DEBUG] Socket created
+2024-10-26 13:03:27 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:03:27 - [DEBUG] Socket created
+2024-10-26 13:03:27 - [DEBUG] Socket created
+2024-10-26 13:03:27 - [DEBUG] Socket options set
+2024-10-26 13:03:27 - [DEBUG] Binded to port 8090
+2024-10-26 13:03:27 - [DEBUG] Listening on port 8090
+2024-10-26 13:03:27 - [DEBUG] Socket created
+2024-10-26 13:03:27 - [DEBUG] Socket options set
+2024-10-26 13:03:27 - [DEBUG] Binded to port 8091
+2024-10-26 13:03:27 - [DEBUG] Listening on port 8091
+2024-10-26 13:03:27 - [DEBUG] Socket created
+2024-10-26 13:03:27 - [DEBUG] Socket options set
+2024-10-26 13:03:27 - [DEBUG] Binded to port 8092
+2024-10-26 13:03:27 - [DEBUG] Listening on port 8092
+2024-10-26 13:03:27 - [DEBUG] Socket created
+2024-10-26 13:03:27 - [DEBUG] Socket options set
+2024-10-26 13:03:27 - [DEBUG] Binded to port 8093
+2024-10-26 13:03:27 - [DEBUG] Listening on port 8093
+2024-10-26 13:06:44 - [INFO] Starting debug log...
+2024-10-26 13:06:44 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:06:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:06:44 - [DEBUG] Socket created
+2024-10-26 13:06:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:06:44 - [DEBUG] Socket created
+2024-10-26 13:06:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:06:44 - [DEBUG] Socket created
+2024-10-26 13:06:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:06:44 - [DEBUG] Socket created
+2024-10-26 13:06:44 - [DEBUG] Socket created
+2024-10-26 13:06:44 - [DEBUG] Socket options set
+2024-10-26 13:06:44 - [DEBUG] Binded to port 8090
+2024-10-26 13:06:44 - [DEBUG] Listening on port 8090
+2024-10-26 13:06:44 - [DEBUG] Socket created
+2024-10-26 13:06:44 - [DEBUG] Socket options set
+2024-10-26 13:06:44 - [DEBUG] Binded to port 8091
+2024-10-26 13:06:44 - [DEBUG] Listening on port 8091
+2024-10-26 13:06:44 - [DEBUG] Socket created
+2024-10-26 13:06:44 - [DEBUG] Socket options set
+2024-10-26 13:06:44 - [DEBUG] Binded to port 8092
+2024-10-26 13:06:44 - [DEBUG] Listening on port 8092
+2024-10-26 13:06:44 - [DEBUG] Socket created
+2024-10-26 13:06:44 - [DEBUG] Socket options set
+2024-10-26 13:06:44 - [DEBUG] Binded to port 8093
+2024-10-26 13:06:44 - [DEBUG] Listening on port 8093
+2024-10-26 13:12:36 - [INFO] Starting debug log...
+2024-10-26 13:12:36 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:12:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:12:36 - [DEBUG] Socket created
+2024-10-26 13:12:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:12:36 - [DEBUG] Socket created
+2024-10-26 13:12:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:12:36 - [DEBUG] Socket created
+2024-10-26 13:12:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:12:36 - [DEBUG] Socket created
+2024-10-26 13:12:36 - [DEBUG] Socket created
+2024-10-26 13:12:36 - [DEBUG] Socket options set
+2024-10-26 13:12:36 - [DEBUG] Binded to port 8090
+2024-10-26 13:12:36 - [DEBUG] Listening on port 8090
+2024-10-26 13:12:36 - [DEBUG] Socket created
+2024-10-26 13:12:36 - [DEBUG] Socket options set
+2024-10-26 13:12:36 - [DEBUG] Binded to port 8091
+2024-10-26 13:12:36 - [DEBUG] Listening on port 8091
+2024-10-26 13:12:36 - [DEBUG] Socket created
+2024-10-26 13:12:36 - [DEBUG] Socket options set
+2024-10-26 13:12:36 - [DEBUG] Binded to port 8092
+2024-10-26 13:12:36 - [DEBUG] Listening on port 8092
+2024-10-26 13:12:36 - [DEBUG] Socket created
+2024-10-26 13:12:36 - [DEBUG] Socket options set
+2024-10-26 13:12:36 - [DEBUG] Binded to port 8093
+2024-10-26 13:12:36 - [DEBUG] Listening on port 8093
+2024-10-26 13:13:49 - [INFO] Starting debug log...
+2024-10-26 13:13:49 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:13:49 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:13:49 - [DEBUG] Socket created
+2024-10-26 13:13:50 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:13:50 - [DEBUG] Socket created
+2024-10-26 13:13:50 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:13:50 - [DEBUG] Socket created
+2024-10-26 13:13:50 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:13:50 - [DEBUG] Socket created
+2024-10-26 13:13:50 - [DEBUG] Socket created
+2024-10-26 13:13:50 - [DEBUG] Socket options set
+2024-10-26 13:13:50 - [DEBUG] Binded to port 8090
+2024-10-26 13:13:50 - [DEBUG] Listening on port 8090
+2024-10-26 13:13:50 - [DEBUG] Socket created
+2024-10-26 13:13:50 - [DEBUG] Socket options set
+2024-10-26 13:13:50 - [DEBUG] Binded to port 8091
+2024-10-26 13:13:50 - [DEBUG] Listening on port 8091
+2024-10-26 13:13:50 - [DEBUG] Socket created
+2024-10-26 13:13:50 - [DEBUG] Socket options set
+2024-10-26 13:13:50 - [DEBUG] Binded to port 8092
+2024-10-26 13:13:50 - [DEBUG] Listening on port 8092
+2024-10-26 13:13:50 - [DEBUG] Socket created
+2024-10-26 13:13:50 - [DEBUG] Socket options set
+2024-10-26 13:13:50 - [DEBUG] Binded to port 8093
+2024-10-26 13:13:50 - [DEBUG] Listening on port 8093
+2024-10-26 13:14:34 - [INFO] Starting debug log...
+2024-10-26 13:14:34 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:14:34 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:14:34 - [DEBUG] Socket created
+2024-10-26 13:14:34 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:14:34 - [DEBUG] Socket created
+2024-10-26 13:14:34 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:14:34 - [DEBUG] Socket created
+2024-10-26 13:14:34 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:14:34 - [DEBUG] Socket created
+2024-10-26 13:14:34 - [DEBUG] Socket created
+2024-10-26 13:14:34 - [DEBUG] Socket options set
+2024-10-26 13:14:34 - [DEBUG] Binded to port 8090
+2024-10-26 13:14:34 - [DEBUG] Listening on port 8090
+2024-10-26 13:14:34 - [DEBUG] Socket created
+2024-10-26 13:14:34 - [DEBUG] Socket options set
+2024-10-26 13:14:34 - [DEBUG] Binded to port 8091
+2024-10-26 13:14:34 - [DEBUG] Listening on port 8091
+2024-10-26 13:14:34 - [DEBUG] Socket created
+2024-10-26 13:14:34 - [DEBUG] Socket options set
+2024-10-26 13:14:34 - [DEBUG] Binded to port 8092
+2024-10-26 13:14:34 - [DEBUG] Listening on port 8092
+2024-10-26 13:14:34 - [DEBUG] Socket created
+2024-10-26 13:14:34 - [DEBUG] Socket options set
+2024-10-26 13:14:34 - [DEBUG] Binded to port 8093
+2024-10-26 13:14:34 - [DEBUG] Listening on port 8093
+2024-10-26 13:15:00 - [INFO] Starting debug log...
+2024-10-26 13:15:01 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:15:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:15:01 - [DEBUG] Socket created
+2024-10-26 13:15:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:15:01 - [DEBUG] Socket created
+2024-10-26 13:15:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:15:01 - [DEBUG] Socket created
+2024-10-26 13:15:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:15:01 - [DEBUG] Socket created
+2024-10-26 13:15:01 - [DEBUG] Socket created
+2024-10-26 13:15:01 - [DEBUG] Socket options set
+2024-10-26 13:15:01 - [DEBUG] Binded to port 8090
+2024-10-26 13:15:01 - [DEBUG] Listening on port 8090
+2024-10-26 13:15:01 - [DEBUG] Socket created
+2024-10-26 13:15:01 - [DEBUG] Socket options set
+2024-10-26 13:15:01 - [DEBUG] Binded to port 8091
+2024-10-26 13:15:01 - [DEBUG] Listening on port 8091
+2024-10-26 13:15:01 - [DEBUG] Socket created
+2024-10-26 13:15:01 - [DEBUG] Socket options set
+2024-10-26 13:15:01 - [DEBUG] Binded to port 8092
+2024-10-26 13:15:01 - [DEBUG] Listening on port 8092
+2024-10-26 13:15:01 - [DEBUG] Socket created
+2024-10-26 13:15:01 - [DEBUG] Socket options set
+2024-10-26 13:15:01 - [DEBUG] Binded to port 8093
+2024-10-26 13:15:01 - [DEBUG] Listening on port 8093
+2024-10-26 13:38:14 - [INFO] Starting debug log...
+2024-10-26 13:38:14 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:38:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:38:14 - [DEBUG] Socket created
+2024-10-26 13:38:15 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:38:15 - [DEBUG] Socket created
+2024-10-26 13:38:15 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:38:15 - [DEBUG] Socket created
+2024-10-26 13:38:15 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:38:15 - [DEBUG] Socket created
+2024-10-26 13:38:15 - [DEBUG] Socket created
+2024-10-26 13:38:15 - [DEBUG] Socket options set
+2024-10-26 13:38:15 - [DEBUG] Binded to port 8090
+2024-10-26 13:38:15 - [DEBUG] Listening on port 8090
+2024-10-26 13:38:15 - [DEBUG] Socket created
+2024-10-26 13:38:15 - [DEBUG] Socket options set
+2024-10-26 13:38:15 - [DEBUG] Binded to port 8091
+2024-10-26 13:38:15 - [DEBUG] Listening on port 8091
+2024-10-26 13:38:15 - [DEBUG] Socket created
+2024-10-26 13:38:15 - [DEBUG] Socket options set
+2024-10-26 13:38:15 - [DEBUG] Binded to port 8092
+2024-10-26 13:38:15 - [DEBUG] Listening on port 8092
+2024-10-26 13:38:15 - [DEBUG] Socket created
+2024-10-26 13:38:15 - [DEBUG] Socket options set
+2024-10-26 13:38:15 - [DEBUG] Binded to port 8093
+2024-10-26 13:38:15 - [DEBUG] Listening on port 8093
+2024-10-26 13:38:41 - [INFO] Starting debug log...
+2024-10-26 13:38:41 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:38:41 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:38:41 - [DEBUG] Socket created
+2024-10-26 13:38:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:38:42 - [DEBUG] Socket created
+2024-10-26 13:38:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:38:42 - [DEBUG] Socket created
+2024-10-26 13:38:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:38:42 - [DEBUG] Socket created
+2024-10-26 13:38:42 - [DEBUG] Socket created
+2024-10-26 13:38:42 - [DEBUG] Socket options set
+2024-10-26 13:38:42 - [DEBUG] Binded to port 8090
+2024-10-26 13:38:42 - [DEBUG] Listening on port 8090
+2024-10-26 13:38:42 - [DEBUG] Socket created
+2024-10-26 13:38:42 - [DEBUG] Socket options set
+2024-10-26 13:38:42 - [DEBUG] Binded to port 8091
+2024-10-26 13:38:42 - [DEBUG] Listening on port 8091
+2024-10-26 13:38:42 - [DEBUG] Socket created
+2024-10-26 13:38:42 - [DEBUG] Socket options set
+2024-10-26 13:38:42 - [DEBUG] Binded to port 8092
+2024-10-26 13:38:42 - [DEBUG] Listening on port 8092
+2024-10-26 13:38:42 - [DEBUG] Socket created
+2024-10-26 13:38:42 - [DEBUG] Socket options set
+2024-10-26 13:38:42 - [DEBUG] Binded to port 8093
+2024-10-26 13:38:42 - [DEBUG] Listening on port 8093
+2024-10-26 13:40:57 - [INFO] Starting debug log...
+2024-10-26 13:40:58 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:40:58 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:40:58 - [DEBUG] Socket created
+2024-10-26 13:40:58 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:40:58 - [DEBUG] Socket created
+2024-10-26 13:40:58 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:40:58 - [DEBUG] Socket created
+2024-10-26 13:40:58 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:40:58 - [DEBUG] Socket created
+2024-10-26 13:40:58 - [DEBUG] Socket created
+2024-10-26 13:40:58 - [DEBUG] Socket options set
+2024-10-26 13:40:58 - [DEBUG] Binded to port 8090
+2024-10-26 13:40:58 - [DEBUG] Listening on port 8090
+2024-10-26 13:40:58 - [DEBUG] Socket created
+2024-10-26 13:40:58 - [DEBUG] Socket options set
+2024-10-26 13:40:58 - [DEBUG] Binded to port 8091
+2024-10-26 13:40:58 - [DEBUG] Listening on port 8091
+2024-10-26 13:40:58 - [DEBUG] Socket created
+2024-10-26 13:40:58 - [DEBUG] Socket options set
+2024-10-26 13:40:58 - [DEBUG] Binded to port 8092
+2024-10-26 13:40:58 - [DEBUG] Listening on port 8092
+2024-10-26 13:40:58 - [DEBUG] Socket created
+2024-10-26 13:40:58 - [DEBUG] Socket options set
+2024-10-26 13:40:58 - [DEBUG] Binded to port 8093
+2024-10-26 13:40:58 - [DEBUG] Listening on port 8093
+2024-10-26 13:43:43 - [INFO] Starting debug log...
+2024-10-26 13:43:43 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:43:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:43:44 - [DEBUG] Socket created
+2024-10-26 13:43:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:43:44 - [DEBUG] Socket created
+2024-10-26 13:43:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:43:44 - [DEBUG] Socket created
+2024-10-26 13:43:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:43:44 - [DEBUG] Socket created
+2024-10-26 13:43:44 - [DEBUG] Socket created
+2024-10-26 13:43:44 - [DEBUG] Socket options set
+2024-10-26 13:43:44 - [DEBUG] Binded to port 8090
+2024-10-26 13:43:44 - [DEBUG] Listening on port 8090
+2024-10-26 13:43:44 - [DEBUG] Socket created
+2024-10-26 13:43:44 - [DEBUG] Socket options set
+2024-10-26 13:43:44 - [DEBUG] Binded to port 8091
+2024-10-26 13:43:44 - [DEBUG] Listening on port 8091
+2024-10-26 13:43:44 - [DEBUG] Socket created
+2024-10-26 13:43:44 - [DEBUG] Socket options set
+2024-10-26 13:43:44 - [DEBUG] Binded to port 8092
+2024-10-26 13:43:44 - [DEBUG] Listening on port 8092
+2024-10-26 13:43:44 - [DEBUG] Socket created
+2024-10-26 13:43:44 - [DEBUG] Socket options set
+2024-10-26 13:43:44 - [DEBUG] Binded to port 8093
+2024-10-26 13:43:44 - [DEBUG] Listening on port 8093
+2024-10-26 13:47:11 - [INFO] Starting debug log...
+2024-10-26 13:47:11 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 13:47:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:47:11 - [DEBUG] Socket created
+2024-10-26 13:47:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:47:11 - [DEBUG] Socket created
+2024-10-26 13:47:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:47:11 - [DEBUG] Socket created
+2024-10-26 13:47:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 13:47:11 - [DEBUG] Socket created
+2024-10-26 13:47:12 - [DEBUG] Socket created
+2024-10-26 13:47:12 - [DEBUG] Socket options set
+2024-10-26 13:47:12 - [DEBUG] Binded to port 8090
+2024-10-26 13:47:12 - [DEBUG] Listening on port 8090
+2024-10-26 13:47:12 - [DEBUG] Socket created
+2024-10-26 13:47:12 - [DEBUG] Socket options set
+2024-10-26 13:47:12 - [DEBUG] Binded to port 8091
+2024-10-26 13:47:12 - [DEBUG] Listening on port 8091
+2024-10-26 13:47:12 - [DEBUG] Socket created
+2024-10-26 13:47:12 - [DEBUG] Socket options set
+2024-10-26 13:47:12 - [DEBUG] Binded to port 8092
+2024-10-26 13:47:12 - [DEBUG] Listening on port 8092
+2024-10-26 13:47:12 - [DEBUG] Socket created
+2024-10-26 13:47:12 - [DEBUG] Socket options set
+2024-10-26 13:47:12 - [DEBUG] Binded to port 8093
+2024-10-26 13:47:12 - [DEBUG] Listening on port 8093
+2024-10-26 15:18:55 - [INFO] Starting debug log...
+2024-10-26 15:18:55 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 15:18:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:18:55 - [DEBUG] Socket created
+2024-10-26 15:18:56 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:18:56 - [DEBUG] Socket created
+2024-10-26 15:18:56 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:18:56 - [DEBUG] Socket created
+2024-10-26 15:18:56 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:18:56 - [DEBUG] Socket created
+2024-10-26 15:18:56 - [DEBUG] Socket created
+2024-10-26 15:18:56 - [DEBUG] Socket options set
+2024-10-26 15:18:56 - [DEBUG] Binded to port 8090
+2024-10-26 15:18:56 - [DEBUG] Listening on port 8090
+2024-10-26 15:18:56 - [DEBUG] Socket created
+2024-10-26 15:18:56 - [DEBUG] Socket options set
+2024-10-26 15:18:56 - [DEBUG] Binded to port 8091
+2024-10-26 15:18:56 - [DEBUG] Listening on port 8091
+2024-10-26 15:18:56 - [DEBUG] Socket created
+2024-10-26 15:18:56 - [DEBUG] Socket options set
+2024-10-26 15:18:56 - [DEBUG] Binded to port 8092
+2024-10-26 15:18:56 - [DEBUG] Listening on port 8092
+2024-10-26 15:18:56 - [DEBUG] Socket created
+2024-10-26 15:18:56 - [DEBUG] Socket options set
+2024-10-26 15:18:56 - [DEBUG] Binded to port 8093
+2024-10-26 15:18:56 - [DEBUG] Listening on port 8093
+2024-10-26 15:29:33 - [INFO] Starting debug log...
+2024-10-26 15:29:33 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 15:29:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:29:33 - [DEBUG] Socket created
+2024-10-26 15:29:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:29:33 - [DEBUG] Socket created
+2024-10-26 15:29:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:29:33 - [DEBUG] Socket created
+2024-10-26 15:29:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:29:33 - [DEBUG] Socket created
+2024-10-26 15:29:33 - [DEBUG] Socket created
+2024-10-26 15:29:33 - [DEBUG] Socket options set
+2024-10-26 15:29:33 - [DEBUG] Binded to port 8090
+2024-10-26 15:29:33 - [DEBUG] Listening on port 8090
+2024-10-26 15:29:34 - [DEBUG] Socket created
+2024-10-26 15:29:34 - [DEBUG] Socket options set
+2024-10-26 15:29:34 - [DEBUG] Binded to port 8091
+2024-10-26 15:29:34 - [DEBUG] Listening on port 8091
+2024-10-26 15:29:34 - [DEBUG] Socket created
+2024-10-26 15:29:34 - [DEBUG] Socket options set
+2024-10-26 15:29:34 - [DEBUG] Binded to port 8092
+2024-10-26 15:29:34 - [DEBUG] Listening on port 8092
+2024-10-26 15:29:34 - [DEBUG] Socket created
+2024-10-26 15:29:34 - [DEBUG] Socket options set
+2024-10-26 15:29:34 - [DEBUG] Binded to port 8093
+2024-10-26 15:29:34 - [DEBUG] Listening on port 8093
+2024-10-26 15:30:40 - [INFO] Starting debug log...
+2024-10-26 15:30:40 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 15:30:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:30:40 - [DEBUG] Socket created
+2024-10-26 15:30:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:30:40 - [DEBUG] Socket created
+2024-10-26 15:30:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:30:40 - [DEBUG] Socket created
+2024-10-26 15:30:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:30:40 - [DEBUG] Socket created
+2024-10-26 15:30:40 - [DEBUG] Socket created
+2024-10-26 15:30:40 - [DEBUG] Socket options set
+2024-10-26 15:30:40 - [DEBUG] Binded to port 8090
+2024-10-26 15:30:40 - [DEBUG] Listening on port 8090
+2024-10-26 15:30:40 - [DEBUG] Socket created
+2024-10-26 15:30:40 - [DEBUG] Socket options set
+2024-10-26 15:30:40 - [DEBUG] Binded to port 8091
+2024-10-26 15:30:40 - [DEBUG] Listening on port 8091
+2024-10-26 15:30:40 - [DEBUG] Socket created
+2024-10-26 15:30:40 - [DEBUG] Socket options set
+2024-10-26 15:30:40 - [DEBUG] Binded to port 8092
+2024-10-26 15:30:40 - [DEBUG] Listening on port 8092
+2024-10-26 15:30:40 - [DEBUG] Socket created
+2024-10-26 15:30:40 - [DEBUG] Socket options set
+2024-10-26 15:30:40 - [DEBUG] Binded to port 8093
+2024-10-26 15:30:40 - [DEBUG] Listening on port 8093
+2024-10-26 15:39:30 - [INFO] Starting debug log...
+2024-10-26 15:39:30 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 15:39:30 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:39:30 - [DEBUG] Socket created
+2024-10-26 15:39:30 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:39:30 - [DEBUG] Socket created
+2024-10-26 15:39:30 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:39:30 - [DEBUG] Socket created
+2024-10-26 15:39:30 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:39:30 - [DEBUG] Socket created
+2024-10-26 15:39:30 - [DEBUG] Socket created
+2024-10-26 15:39:30 - [DEBUG] Socket options set
+2024-10-26 15:39:30 - [DEBUG] Binded to port 8090
+2024-10-26 15:39:30 - [DEBUG] Listening on port 8090
+2024-10-26 15:39:30 - [DEBUG] Socket created
+2024-10-26 15:39:30 - [DEBUG] Socket options set
+2024-10-26 15:39:30 - [DEBUG] Binded to port 8091
+2024-10-26 15:39:30 - [DEBUG] Listening on port 8091
+2024-10-26 15:39:30 - [DEBUG] Socket created
+2024-10-26 15:39:30 - [DEBUG] Socket options set
+2024-10-26 15:39:30 - [DEBUG] Binded to port 8092
+2024-10-26 15:39:30 - [DEBUG] Listening on port 8092
+2024-10-26 15:39:30 - [DEBUG] Socket created
+2024-10-26 15:39:30 - [DEBUG] Socket options set
+2024-10-26 15:39:30 - [DEBUG] Binded to port 8093
+2024-10-26 15:39:30 - [DEBUG] Listening on port 8093
+2024-10-26 15:43:17 - [INFO] Starting debug log...
+2024-10-26 15:43:17 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 15:43:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:43:17 - [DEBUG] Socket created
+2024-10-26 15:43:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:43:17 - [DEBUG] Socket created
+2024-10-26 15:43:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:43:17 - [DEBUG] Socket created
+2024-10-26 15:43:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:43:17 - [DEBUG] Socket created
+2024-10-26 15:43:17 - [DEBUG] Socket created
+2024-10-26 15:43:17 - [DEBUG] Socket options set
+2024-10-26 15:43:17 - [DEBUG] Binded to port 8090
+2024-10-26 15:43:17 - [DEBUG] Listening on port 8090
+2024-10-26 15:43:17 - [DEBUG] Socket created
+2024-10-26 15:43:17 - [DEBUG] Socket options set
+2024-10-26 15:43:17 - [DEBUG] Binded to port 8091
+2024-10-26 15:43:17 - [DEBUG] Listening on port 8091
+2024-10-26 15:43:17 - [DEBUG] Socket created
+2024-10-26 15:43:17 - [DEBUG] Socket options set
+2024-10-26 15:43:17 - [DEBUG] Binded to port 8092
+2024-10-26 15:43:17 - [DEBUG] Listening on port 8092
+2024-10-26 15:43:17 - [DEBUG] Socket created
+2024-10-26 15:43:17 - [DEBUG] Socket options set
+2024-10-26 15:43:17 - [DEBUG] Binded to port 8093
+2024-10-26 15:43:17 - [DEBUG] Listening on port 8093
+2024-10-26 15:53:53 - [INFO] Starting debug log...
+2024-10-26 15:53:53 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 15:53:53 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:53:53 - [DEBUG] Socket created
+2024-10-26 15:53:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:53:54 - [DEBUG] Socket created
+2024-10-26 15:53:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:53:54 - [DEBUG] Socket created
+2024-10-26 15:53:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:53:54 - [DEBUG] Socket created
+2024-10-26 15:53:54 - [DEBUG] Socket created
+2024-10-26 15:53:54 - [DEBUG] Socket options set
+2024-10-26 15:53:54 - [DEBUG] Binded to port 8090
+2024-10-26 15:53:54 - [DEBUG] Listening on port 8090
+2024-10-26 15:53:54 - [DEBUG] Socket created
+2024-10-26 15:53:54 - [DEBUG] Socket options set
+2024-10-26 15:53:54 - [DEBUG] Binded to port 8091
+2024-10-26 15:53:54 - [DEBUG] Listening on port 8091
+2024-10-26 15:53:54 - [DEBUG] Socket created
+2024-10-26 15:53:54 - [DEBUG] Socket options set
+2024-10-26 15:53:54 - [DEBUG] Binded to port 8092
+2024-10-26 15:53:54 - [DEBUG] Listening on port 8092
+2024-10-26 15:53:54 - [DEBUG] Socket created
+2024-10-26 15:53:54 - [DEBUG] Socket options set
+2024-10-26 15:53:54 - [DEBUG] Binded to port 8093
+2024-10-26 15:53:54 - [DEBUG] Listening on port 8093
+2024-10-26 15:54:44 - [INFO] Starting debug log...
+2024-10-26 15:54:44 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 15:54:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:54:44 - [DEBUG] Socket created
+2024-10-26 15:54:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:54:44 - [DEBUG] Socket created
+2024-10-26 15:54:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:54:44 - [DEBUG] Socket created
+2024-10-26 15:54:44 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:54:44 - [DEBUG] Socket created
+2024-10-26 15:54:44 - [DEBUG] Socket created
+2024-10-26 15:54:44 - [DEBUG] Socket options set
+2024-10-26 15:54:44 - [DEBUG] Binded to port 8090
+2024-10-26 15:54:44 - [DEBUG] Listening on port 8090
+2024-10-26 15:54:44 - [DEBUG] Socket created
+2024-10-26 15:54:44 - [DEBUG] Socket options set
+2024-10-26 15:54:44 - [DEBUG] Binded to port 8091
+2024-10-26 15:54:44 - [DEBUG] Listening on port 8091
+2024-10-26 15:54:44 - [DEBUG] Socket created
+2024-10-26 15:54:44 - [DEBUG] Socket options set
+2024-10-26 15:54:44 - [DEBUG] Binded to port 8092
+2024-10-26 15:54:44 - [DEBUG] Listening on port 8092
+2024-10-26 15:54:44 - [DEBUG] Socket created
+2024-10-26 15:54:44 - [DEBUG] Socket options set
+2024-10-26 15:54:44 - [DEBUG] Binded to port 8093
+2024-10-26 15:54:44 - [DEBUG] Listening on port 8093
+2024-10-26 15:58:39 - [INFO] Starting debug log...
+2024-10-26 15:58:39 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 15:58:39 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:58:39 - [DEBUG] Socket created
+2024-10-26 15:58:39 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:58:39 - [DEBUG] Socket created
+2024-10-26 15:58:39 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:58:39 - [DEBUG] Socket created
+2024-10-26 15:58:39 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 15:58:39 - [DEBUG] Socket created
+2024-10-26 15:58:39 - [DEBUG] Socket created
+2024-10-26 15:58:39 - [DEBUG] Socket options set
+2024-10-26 15:58:39 - [DEBUG] Binded to port 8090
+2024-10-26 15:58:39 - [DEBUG] Listening on port 8090
+2024-10-26 15:58:39 - [DEBUG] Socket created
+2024-10-26 15:58:39 - [DEBUG] Socket options set
+2024-10-26 15:58:39 - [DEBUG] Binded to port 8091
+2024-10-26 15:58:39 - [DEBUG] Listening on port 8091
+2024-10-26 15:58:39 - [DEBUG] Socket created
+2024-10-26 15:58:39 - [DEBUG] Socket options set
+2024-10-26 15:58:39 - [DEBUG] Binded to port 8092
+2024-10-26 15:58:39 - [DEBUG] Listening on port 8092
+2024-10-26 15:58:39 - [DEBUG] Socket created
+2024-10-26 15:58:39 - [DEBUG] Socket options set
+2024-10-26 15:58:39 - [DEBUG] Binded to port 8093
+2024-10-26 15:58:39 - [DEBUG] Listening on port 8093
+2024-10-26 16:04:34 - [INFO] Starting debug log...
+2024-10-26 16:04:34 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:04:34 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:04:34 - [DEBUG] Socket created
+2024-10-26 16:04:35 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:04:35 - [DEBUG] Socket created
+2024-10-26 16:04:35 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:04:35 - [DEBUG] Socket created
+2024-10-26 16:04:35 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:04:35 - [DEBUG] Socket created
+2024-10-26 16:04:35 - [DEBUG] Socket created
+2024-10-26 16:04:35 - [DEBUG] Socket options set
+2024-10-26 16:04:35 - [DEBUG] Binded to port 8090
+2024-10-26 16:04:35 - [DEBUG] Listening on port 8090
+2024-10-26 16:04:35 - [DEBUG] Socket created
+2024-10-26 16:04:35 - [DEBUG] Socket options set
+2024-10-26 16:04:35 - [DEBUG] Binded to port 8091
+2024-10-26 16:04:35 - [DEBUG] Listening on port 8091
+2024-10-26 16:04:35 - [DEBUG] Socket created
+2024-10-26 16:04:35 - [DEBUG] Socket options set
+2024-10-26 16:04:35 - [DEBUG] Binded to port 8092
+2024-10-26 16:04:35 - [DEBUG] Listening on port 8092
+2024-10-26 16:04:35 - [DEBUG] Socket created
+2024-10-26 16:04:35 - [DEBUG] Socket options set
+2024-10-26 16:04:35 - [DEBUG] Binded to port 8093
+2024-10-26 16:04:35 - [DEBUG] Listening on port 8093
+2024-10-26 16:06:02 - [INFO] Starting debug log...
+2024-10-26 16:06:03 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:06:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:06:03 - [DEBUG] Socket created
+2024-10-26 16:06:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:06:03 - [DEBUG] Socket created
+2024-10-26 16:06:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:06:03 - [DEBUG] Socket created
+2024-10-26 16:06:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:06:03 - [DEBUG] Socket created
+2024-10-26 16:06:03 - [DEBUG] Socket created
+2024-10-26 16:06:03 - [DEBUG] Socket options set
+2024-10-26 16:06:03 - [DEBUG] Binded to port 8090
+2024-10-26 16:06:03 - [DEBUG] Listening on port 8090
+2024-10-26 16:06:03 - [DEBUG] Socket created
+2024-10-26 16:06:03 - [DEBUG] Socket options set
+2024-10-26 16:06:03 - [DEBUG] Binded to port 8091
+2024-10-26 16:06:03 - [DEBUG] Listening on port 8091
+2024-10-26 16:06:03 - [DEBUG] Socket created
+2024-10-26 16:06:03 - [DEBUG] Socket options set
+2024-10-26 16:06:03 - [DEBUG] Binded to port 8092
+2024-10-26 16:06:03 - [DEBUG] Listening on port 8092
+2024-10-26 16:06:03 - [DEBUG] Socket created
+2024-10-26 16:06:03 - [DEBUG] Socket options set
+2024-10-26 16:06:03 - [DEBUG] Binded to port 8093
+2024-10-26 16:06:03 - [DEBUG] Listening on port 8093
+2024-10-26 16:08:14 - [INFO] Starting debug log...
+2024-10-26 16:08:14 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:08:14 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:08:14 - [DEBUG] Socket created
+2024-10-26 16:08:15 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:08:15 - [DEBUG] Socket created
+2024-10-26 16:08:15 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:08:15 - [DEBUG] Socket created
+2024-10-26 16:08:15 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:08:15 - [DEBUG] Socket created
+2024-10-26 16:08:15 - [DEBUG] Socket created
+2024-10-26 16:08:15 - [DEBUG] Socket options set
+2024-10-26 16:08:15 - [DEBUG] Binded to port 8090
+2024-10-26 16:08:15 - [DEBUG] Listening on port 8090
+2024-10-26 16:08:15 - [DEBUG] Socket created
+2024-10-26 16:08:15 - [DEBUG] Socket options set
+2024-10-26 16:08:15 - [DEBUG] Binded to port 8091
+2024-10-26 16:08:15 - [DEBUG] Listening on port 8091
+2024-10-26 16:08:15 - [DEBUG] Socket created
+2024-10-26 16:08:15 - [DEBUG] Socket options set
+2024-10-26 16:08:15 - [DEBUG] Binded to port 8092
+2024-10-26 16:08:15 - [DEBUG] Listening on port 8092
+2024-10-26 16:08:15 - [DEBUG] Socket created
+2024-10-26 16:08:15 - [DEBUG] Socket options set
+2024-10-26 16:08:15 - [DEBUG] Binded to port 8093
+2024-10-26 16:08:15 - [DEBUG] Listening on port 8093
+2024-10-26 16:09:16 - [INFO] Starting debug log...
+2024-10-26 16:09:16 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:09:16 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:09:16 - [DEBUG] Socket created
+2024-10-26 16:09:16 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:09:16 - [DEBUG] Socket created
+2024-10-26 16:09:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:09:17 - [DEBUG] Socket created
+2024-10-26 16:09:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:09:17 - [DEBUG] Socket created
+2024-10-26 16:09:17 - [DEBUG] Socket created
+2024-10-26 16:09:17 - [DEBUG] Socket options set
+2024-10-26 16:09:17 - [DEBUG] Binded to port 8090
+2024-10-26 16:09:17 - [DEBUG] Listening on port 8090
+2024-10-26 16:09:17 - [DEBUG] Socket created
+2024-10-26 16:09:17 - [DEBUG] Socket options set
+2024-10-26 16:09:17 - [DEBUG] Binded to port 8091
+2024-10-26 16:09:17 - [DEBUG] Listening on port 8091
+2024-10-26 16:09:17 - [DEBUG] Socket created
+2024-10-26 16:09:17 - [DEBUG] Socket options set
+2024-10-26 16:09:17 - [DEBUG] Binded to port 8092
+2024-10-26 16:09:17 - [DEBUG] Listening on port 8092
+2024-10-26 16:09:17 - [DEBUG] Socket created
+2024-10-26 16:09:17 - [DEBUG] Socket options set
+2024-10-26 16:09:17 - [DEBUG] Binded to port 8093
+2024-10-26 16:09:17 - [DEBUG] Listening on port 8093
+2024-10-26 16:15:42 - [INFO] Starting debug log...
+2024-10-26 16:15:42 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:15:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:15:42 - [DEBUG] Socket created
+2024-10-26 16:15:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:15:42 - [DEBUG] Socket created
+2024-10-26 16:15:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:15:42 - [DEBUG] Socket created
+2024-10-26 16:15:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:15:42 - [DEBUG] Socket created
+2024-10-26 16:15:42 - [DEBUG] Socket created
+2024-10-26 16:15:42 - [DEBUG] Socket options set
+2024-10-26 16:15:42 - [DEBUG] Binded to port 8090
+2024-10-26 16:15:42 - [DEBUG] Listening on port 8090
+2024-10-26 16:15:42 - [DEBUG] Socket created
+2024-10-26 16:15:42 - [DEBUG] Socket options set
+2024-10-26 16:15:42 - [DEBUG] Binded to port 8091
+2024-10-26 16:15:42 - [DEBUG] Listening on port 8091
+2024-10-26 16:15:42 - [DEBUG] Socket created
+2024-10-26 16:15:42 - [DEBUG] Socket options set
+2024-10-26 16:15:42 - [DEBUG] Binded to port 8092
+2024-10-26 16:15:42 - [DEBUG] Listening on port 8092
+2024-10-26 16:15:42 - [DEBUG] Socket created
+2024-10-26 16:15:42 - [DEBUG] Socket options set
+2024-10-26 16:15:42 - [DEBUG] Binded to port 8093
+2024-10-26 16:15:42 - [DEBUG] Listening on port 8093
+2024-10-26 16:43:26 - [INFO] Starting debug log...
+2024-10-26 16:43:26 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:43:26 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:43:26 - [DEBUG] Socket created
+2024-10-26 16:43:26 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:43:26 - [DEBUG] Socket created
+2024-10-26 16:43:26 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:43:26 - [DEBUG] Socket created
+2024-10-26 16:43:26 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:43:26 - [DEBUG] Socket created
+2024-10-26 16:43:26 - [DEBUG] Socket created
+2024-10-26 16:43:26 - [DEBUG] Socket options set
+2024-10-26 16:43:26 - [DEBUG] Binded to port 8090
+2024-10-26 16:43:26 - [DEBUG] Listening on port 8090
+2024-10-26 16:43:26 - [DEBUG] Socket created
+2024-10-26 16:43:26 - [DEBUG] Socket options set
+2024-10-26 16:43:26 - [DEBUG] Binded to port 8091
+2024-10-26 16:43:26 - [DEBUG] Listening on port 8091
+2024-10-26 16:43:26 - [DEBUG] Socket created
+2024-10-26 16:43:26 - [DEBUG] Socket options set
+2024-10-26 16:43:26 - [DEBUG] Binded to port 8092
+2024-10-26 16:43:26 - [DEBUG] Listening on port 8092
+2024-10-26 16:43:26 - [DEBUG] Socket created
+2024-10-26 16:43:26 - [DEBUG] Socket options set
+2024-10-26 16:43:26 - [DEBUG] Binded to port 8093
+2024-10-26 16:43:26 - [DEBUG] Listening on port 8093
+2024-10-26 16:46:33 - [INFO] Starting debug log...
+2024-10-26 16:46:34 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:46:34 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:46:34 - [DEBUG] Socket created
+2024-10-26 16:46:34 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:46:34 - [DEBUG] Socket created
+2024-10-26 16:46:34 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:46:34 - [DEBUG] Socket created
+2024-10-26 16:46:34 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:46:34 - [DEBUG] Socket created
+2024-10-26 16:46:34 - [DEBUG] Socket created
+2024-10-26 16:46:34 - [DEBUG] Socket options set
+2024-10-26 16:46:34 - [DEBUG] Binded to port 8090
+2024-10-26 16:46:34 - [DEBUG] Listening on port 8090
+2024-10-26 16:46:34 - [DEBUG] Socket created
+2024-10-26 16:46:34 - [DEBUG] Socket options set
+2024-10-26 16:46:34 - [DEBUG] Binded to port 8091
+2024-10-26 16:46:34 - [DEBUG] Listening on port 8091
+2024-10-26 16:46:34 - [DEBUG] Socket created
+2024-10-26 16:46:34 - [DEBUG] Socket options set
+2024-10-26 16:46:34 - [DEBUG] Binded to port 8092
+2024-10-26 16:46:34 - [DEBUG] Listening on port 8092
+2024-10-26 16:46:34 - [DEBUG] Socket created
+2024-10-26 16:46:34 - [DEBUG] Socket options set
+2024-10-26 16:46:34 - [DEBUG] Binded to port 8093
+2024-10-26 16:46:34 - [DEBUG] Listening on port 8093
+2024-10-26 16:50:03 - [INFO] Starting debug log...
+2024-10-26 16:50:03 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:50:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:50:03 - [DEBUG] Socket created
+2024-10-26 16:50:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:50:03 - [DEBUG] Socket created
+2024-10-26 16:50:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:50:03 - [DEBUG] Socket created
+2024-10-26 16:50:03 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:50:03 - [DEBUG] Socket created
+2024-10-26 16:50:03 - [DEBUG] Socket created
+2024-10-26 16:50:03 - [DEBUG] Socket options set
+2024-10-26 16:50:03 - [DEBUG] Binded to port 8090
+2024-10-26 16:50:03 - [DEBUG] Listening on port 8090
+2024-10-26 16:50:03 - [DEBUG] Socket created
+2024-10-26 16:50:03 - [DEBUG] Socket options set
+2024-10-26 16:50:03 - [DEBUG] Binded to port 8091
+2024-10-26 16:50:03 - [DEBUG] Listening on port 8091
+2024-10-26 16:50:03 - [DEBUG] Socket created
+2024-10-26 16:50:03 - [DEBUG] Socket options set
+2024-10-26 16:50:03 - [DEBUG] Binded to port 8092
+2024-10-26 16:50:03 - [DEBUG] Listening on port 8092
+2024-10-26 16:50:03 - [DEBUG] Socket created
+2024-10-26 16:50:03 - [DEBUG] Socket options set
+2024-10-26 16:50:03 - [DEBUG] Binded to port 8093
+2024-10-26 16:50:03 - [DEBUG] Listening on port 8093
+2024-10-26 16:51:03 - [INFO] Starting debug log...
+2024-10-26 16:51:03 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:51:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:51:04 - [DEBUG] Socket created
+2024-10-26 16:51:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:51:04 - [DEBUG] Socket created
+2024-10-26 16:51:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:51:04 - [DEBUG] Socket created
+2024-10-26 16:51:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:51:04 - [DEBUG] Socket created
+2024-10-26 16:51:04 - [DEBUG] Socket created
+2024-10-26 16:51:04 - [DEBUG] Socket options set
+2024-10-26 16:51:04 - [DEBUG] Binded to port 8090
+2024-10-26 16:51:04 - [DEBUG] Listening on port 8090
+2024-10-26 16:51:04 - [DEBUG] Socket created
+2024-10-26 16:51:04 - [DEBUG] Socket options set
+2024-10-26 16:51:04 - [DEBUG] Binded to port 8091
+2024-10-26 16:51:04 - [DEBUG] Listening on port 8091
+2024-10-26 16:51:04 - [DEBUG] Socket created
+2024-10-26 16:51:04 - [DEBUG] Socket options set
+2024-10-26 16:51:04 - [DEBUG] Binded to port 8092
+2024-10-26 16:51:04 - [DEBUG] Listening on port 8092
+2024-10-26 16:51:04 - [DEBUG] Socket created
+2024-10-26 16:51:04 - [DEBUG] Socket options set
+2024-10-26 16:51:04 - [DEBUG] Binded to port 8093
+2024-10-26 16:51:04 - [DEBUG] Listening on port 8093
+2024-10-26 16:54:43 - [INFO] Starting debug log...
+2024-10-26 16:54:43 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:54:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:54:43 - [DEBUG] Socket created
+2024-10-26 16:54:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:54:43 - [DEBUG] Socket created
+2024-10-26 16:54:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:54:43 - [DEBUG] Socket created
+2024-10-26 16:54:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:54:43 - [DEBUG] Socket created
+2024-10-26 16:54:43 - [DEBUG] Socket created
+2024-10-26 16:54:43 - [DEBUG] Socket options set
+2024-10-26 16:54:43 - [DEBUG] Binded to port 8090
+2024-10-26 16:54:43 - [DEBUG] Listening on port 8090
+2024-10-26 16:54:43 - [DEBUG] Socket created
+2024-10-26 16:54:43 - [DEBUG] Socket options set
+2024-10-26 16:54:43 - [DEBUG] Binded to port 8091
+2024-10-26 16:54:43 - [DEBUG] Listening on port 8091
+2024-10-26 16:54:43 - [DEBUG] Socket created
+2024-10-26 16:54:43 - [DEBUG] Socket options set
+2024-10-26 16:54:43 - [DEBUG] Binded to port 8092
+2024-10-26 16:54:43 - [DEBUG] Listening on port 8092
+2024-10-26 16:54:43 - [DEBUG] Socket created
+2024-10-26 16:54:43 - [DEBUG] Socket options set
+2024-10-26 16:54:43 - [DEBUG] Binded to port 8093
+2024-10-26 16:54:43 - [DEBUG] Listening on port 8093
+2024-10-26 16:54:53 - [INFO] Starting debug log...
+2024-10-26 16:54:53 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:54:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:54:54 - [DEBUG] Socket created
+2024-10-26 16:54:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:54:54 - [DEBUG] Socket created
+2024-10-26 16:54:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:54:54 - [DEBUG] Socket created
+2024-10-26 16:54:54 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:54:54 - [DEBUG] Socket created
+2024-10-26 16:54:54 - [DEBUG] Socket created
+2024-10-26 16:54:54 - [DEBUG] Socket options set
+2024-10-26 16:54:54 - [DEBUG] Binded to port 8090
+2024-10-26 16:54:54 - [DEBUG] Listening on port 8090
+2024-10-26 16:54:54 - [DEBUG] Socket created
+2024-10-26 16:54:54 - [DEBUG] Socket options set
+2024-10-26 16:54:54 - [DEBUG] Binded to port 8091
+2024-10-26 16:54:54 - [DEBUG] Listening on port 8091
+2024-10-26 16:54:54 - [DEBUG] Socket created
+2024-10-26 16:54:54 - [DEBUG] Socket options set
+2024-10-26 16:54:54 - [DEBUG] Binded to port 8092
+2024-10-26 16:54:54 - [DEBUG] Listening on port 8092
+2024-10-26 16:54:54 - [DEBUG] Socket created
+2024-10-26 16:54:54 - [DEBUG] Socket options set
+2024-10-26 16:54:54 - [DEBUG] Binded to port 8093
+2024-10-26 16:54:54 - [DEBUG] Listening on port 8093
+2024-10-26 16:55:06 - [INFO] Starting debug log...
+2024-10-26 16:55:06 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:55:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:55:06 - [DEBUG] Socket created
+2024-10-26 16:55:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:55:06 - [DEBUG] Socket created
+2024-10-26 16:55:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:55:06 - [DEBUG] Socket created
+2024-10-26 16:55:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:55:06 - [DEBUG] Socket created
+2024-10-26 16:55:06 - [DEBUG] Socket created
+2024-10-26 16:55:06 - [DEBUG] Socket options set
+2024-10-26 16:55:06 - [DEBUG] Binded to port 8090
+2024-10-26 16:55:06 - [DEBUG] Listening on port 8090
+2024-10-26 16:55:06 - [DEBUG] Socket created
+2024-10-26 16:55:06 - [DEBUG] Socket options set
+2024-10-26 16:55:06 - [DEBUG] Binded to port 8091
+2024-10-26 16:55:06 - [DEBUG] Listening on port 8091
+2024-10-26 16:55:06 - [DEBUG] Socket created
+2024-10-26 16:55:06 - [DEBUG] Socket options set
+2024-10-26 16:55:06 - [DEBUG] Binded to port 8092
+2024-10-26 16:55:06 - [DEBUG] Listening on port 8092
+2024-10-26 16:55:06 - [DEBUG] Socket created
+2024-10-26 16:55:06 - [DEBUG] Socket options set
+2024-10-26 16:55:06 - [DEBUG] Binded to port 8093
+2024-10-26 16:55:06 - [DEBUG] Listening on port 8093
+2024-10-26 16:55:24 - [INFO] Starting debug log...
+2024-10-26 16:55:24 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:55:25 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:55:25 - [DEBUG] Socket created
+2024-10-26 16:55:25 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:55:25 - [DEBUG] Socket created
+2024-10-26 16:55:25 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:55:25 - [DEBUG] Socket created
+2024-10-26 16:55:25 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:55:25 - [DEBUG] Socket created
+2024-10-26 16:55:25 - [DEBUG] Socket created
+2024-10-26 16:55:25 - [DEBUG] Socket options set
+2024-10-26 16:55:25 - [DEBUG] Binded to port 8090
+2024-10-26 16:55:25 - [DEBUG] Listening on port 8090
+2024-10-26 16:55:25 - [DEBUG] Socket created
+2024-10-26 16:55:25 - [DEBUG] Socket options set
+2024-10-26 16:55:25 - [DEBUG] Binded to port 8091
+2024-10-26 16:55:25 - [DEBUG] Listening on port 8091
+2024-10-26 16:55:25 - [DEBUG] Socket created
+2024-10-26 16:55:25 - [DEBUG] Socket options set
+2024-10-26 16:55:25 - [DEBUG] Binded to port 8092
+2024-10-26 16:55:25 - [DEBUG] Listening on port 8092
+2024-10-26 16:55:25 - [DEBUG] Socket created
+2024-10-26 16:55:25 - [DEBUG] Socket options set
+2024-10-26 16:55:25 - [DEBUG] Binded to port 8093
+2024-10-26 16:55:25 - [DEBUG] Listening on port 8093
+2024-10-26 16:57:06 - [INFO] Starting debug log...
+2024-10-26 16:57:06 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:57:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:57:06 - [DEBUG] Socket created
+2024-10-26 16:57:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:57:06 - [DEBUG] Socket created
+2024-10-26 16:57:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:57:06 - [DEBUG] Socket created
+2024-10-26 16:57:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:57:06 - [DEBUG] Socket created
+2024-10-26 16:57:06 - [DEBUG] Socket created
+2024-10-26 16:57:06 - [DEBUG] Socket options set
+2024-10-26 16:57:06 - [DEBUG] Binded to port 8090
+2024-10-26 16:57:06 - [DEBUG] Listening on port 8090
+2024-10-26 16:57:06 - [DEBUG] Socket created
+2024-10-26 16:57:06 - [DEBUG] Socket options set
+2024-10-26 16:57:06 - [DEBUG] Binded to port 8091
+2024-10-26 16:57:06 - [DEBUG] Listening on port 8091
+2024-10-26 16:57:06 - [DEBUG] Socket created
+2024-10-26 16:57:06 - [DEBUG] Socket options set
+2024-10-26 16:57:06 - [DEBUG] Binded to port 8092
+2024-10-26 16:57:06 - [DEBUG] Listening on port 8092
+2024-10-26 16:57:06 - [DEBUG] Socket created
+2024-10-26 16:57:06 - [DEBUG] Socket options set
+2024-10-26 16:57:06 - [DEBUG] Binded to port 8093
+2024-10-26 16:57:06 - [DEBUG] Listening on port 8093
+2024-10-26 16:57:41 - [INFO] Starting debug log...
+2024-10-26 16:57:42 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 16:57:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:57:42 - [DEBUG] Socket created
+2024-10-26 16:57:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:57:42 - [DEBUG] Socket created
+2024-10-26 16:57:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:57:42 - [DEBUG] Socket created
+2024-10-26 16:57:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 16:57:42 - [DEBUG] Socket created
+2024-10-26 16:57:42 - [DEBUG] Socket created
+2024-10-26 16:57:42 - [DEBUG] Socket options set
+2024-10-26 16:57:42 - [DEBUG] Binded to port 8090
+2024-10-26 16:57:42 - [DEBUG] Listening on port 8090
+2024-10-26 16:57:42 - [DEBUG] Socket created
+2024-10-26 16:57:42 - [DEBUG] Socket options set
+2024-10-26 16:57:42 - [DEBUG] Binded to port 8091
+2024-10-26 16:57:42 - [DEBUG] Listening on port 8091
+2024-10-26 16:57:42 - [DEBUG] Socket created
+2024-10-26 16:57:42 - [DEBUG] Socket options set
+2024-10-26 16:57:42 - [DEBUG] Binded to port 8092
+2024-10-26 16:57:42 - [DEBUG] Listening on port 8092
+2024-10-26 16:57:42 - [DEBUG] Socket created
+2024-10-26 16:57:42 - [DEBUG] Socket options set
+2024-10-26 16:57:42 - [DEBUG] Binded to port 8093
+2024-10-26 16:57:42 - [DEBUG] Listening on port 8093
+2024-10-26 17:00:32 - [INFO] Starting debug log...
+2024-10-26 17:00:32 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 17:00:32 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:00:32 - [DEBUG] Socket created
+2024-10-26 17:00:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:00:33 - [DEBUG] Socket created
+2024-10-26 17:00:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:00:33 - [DEBUG] Socket created
+2024-10-26 17:00:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:00:33 - [DEBUG] Socket created
+2024-10-26 17:00:33 - [DEBUG] Socket created
+2024-10-26 17:00:33 - [DEBUG] Socket options set
+2024-10-26 17:00:33 - [DEBUG] Binded to port 8090
+2024-10-26 17:00:33 - [DEBUG] Listening on port 8090
+2024-10-26 17:00:33 - [DEBUG] Socket created
+2024-10-26 17:00:33 - [DEBUG] Socket options set
+2024-10-26 17:00:33 - [DEBUG] Binded to port 8091
+2024-10-26 17:00:33 - [DEBUG] Listening on port 8091
+2024-10-26 17:00:33 - [DEBUG] Socket created
+2024-10-26 17:00:33 - [DEBUG] Socket options set
+2024-10-26 17:00:33 - [DEBUG] Binded to port 8092
+2024-10-26 17:00:33 - [DEBUG] Listening on port 8092
+2024-10-26 17:00:33 - [DEBUG] Socket created
+2024-10-26 17:00:33 - [DEBUG] Socket options set
+2024-10-26 17:00:33 - [DEBUG] Binded to port 8093
+2024-10-26 17:00:33 - [DEBUG] Listening on port 8093
+2024-10-26 17:02:32 - [INFO] Starting debug log...
+2024-10-26 17:02:32 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 17:02:32 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:02:32 - [DEBUG] Socket created
+2024-10-26 17:02:32 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:02:32 - [DEBUG] Socket created
+2024-10-26 17:02:32 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:02:32 - [DEBUG] Socket created
+2024-10-26 17:02:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:02:33 - [DEBUG] Socket created
+2024-10-26 17:02:33 - [DEBUG] Socket created
+2024-10-26 17:02:33 - [DEBUG] Socket options set
+2024-10-26 17:02:33 - [DEBUG] Binded to port 8090
+2024-10-26 17:02:33 - [DEBUG] Listening on port 8090
+2024-10-26 17:02:33 - [DEBUG] Socket created
+2024-10-26 17:02:33 - [DEBUG] Socket options set
+2024-10-26 17:02:33 - [DEBUG] Binded to port 8091
+2024-10-26 17:02:33 - [DEBUG] Listening on port 8091
+2024-10-26 17:02:33 - [DEBUG] Socket created
+2024-10-26 17:02:33 - [DEBUG] Socket options set
+2024-10-26 17:02:33 - [DEBUG] Binded to port 8092
+2024-10-26 17:02:33 - [DEBUG] Listening on port 8092
+2024-10-26 17:02:33 - [DEBUG] Socket created
+2024-10-26 17:02:33 - [DEBUG] Socket options set
+2024-10-26 17:02:33 - [DEBUG] Binded to port 8093
+2024-10-26 17:02:33 - [DEBUG] Listening on port 8093
+2024-10-26 17:03:42 - [INFO] Starting debug log...
+2024-10-26 17:03:43 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 17:03:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:03:43 - [DEBUG] Socket created
+2024-10-26 17:03:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:03:43 - [DEBUG] Socket created
+2024-10-26 17:03:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:03:43 - [DEBUG] Socket created
+2024-10-26 17:03:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:03:43 - [DEBUG] Socket created
+2024-10-26 17:03:43 - [DEBUG] Socket created
+2024-10-26 17:03:43 - [DEBUG] Socket options set
+2024-10-26 17:03:43 - [DEBUG] Binded to port 8090
+2024-10-26 17:03:43 - [DEBUG] Listening on port 8090
+2024-10-26 17:03:43 - [DEBUG] Socket created
+2024-10-26 17:03:43 - [DEBUG] Socket options set
+2024-10-26 17:03:43 - [DEBUG] Binded to port 8091
+2024-10-26 17:03:43 - [DEBUG] Listening on port 8091
+2024-10-26 17:03:43 - [DEBUG] Socket created
+2024-10-26 17:03:43 - [DEBUG] Socket options set
+2024-10-26 17:03:43 - [DEBUG] Binded to port 8092
+2024-10-26 17:03:43 - [DEBUG] Listening on port 8092
+2024-10-26 17:03:43 - [DEBUG] Socket created
+2024-10-26 17:03:43 - [DEBUG] Socket options set
+2024-10-26 17:03:43 - [DEBUG] Binded to port 8093
+2024-10-26 17:03:43 - [DEBUG] Listening on port 8093
+2024-10-26 17:04:39 - [INFO] Starting debug log...
+2024-10-26 17:04:40 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 17:04:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:04:40 - [DEBUG] Socket created
+2024-10-26 17:04:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:04:40 - [DEBUG] Socket created
+2024-10-26 17:04:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:04:40 - [DEBUG] Socket created
+2024-10-26 17:04:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:04:40 - [DEBUG] Socket created
+2024-10-26 17:04:40 - [DEBUG] Socket created
+2024-10-26 17:04:40 - [DEBUG] Socket options set
+2024-10-26 17:04:40 - [DEBUG] Binded to port 8090
+2024-10-26 17:04:40 - [DEBUG] Listening on port 8090
+2024-10-26 17:04:40 - [DEBUG] Socket created
+2024-10-26 17:04:40 - [DEBUG] Socket options set
+2024-10-26 17:04:40 - [DEBUG] Binded to port 8091
+2024-10-26 17:04:40 - [DEBUG] Listening on port 8091
+2024-10-26 17:04:40 - [DEBUG] Socket created
+2024-10-26 17:04:40 - [DEBUG] Socket options set
+2024-10-26 17:04:40 - [DEBUG] Binded to port 8092
+2024-10-26 17:04:40 - [DEBUG] Listening on port 8092
+2024-10-26 17:04:40 - [DEBUG] Socket created
+2024-10-26 17:04:40 - [DEBUG] Socket options set
+2024-10-26 17:04:40 - [DEBUG] Binded to port 8093
+2024-10-26 17:04:40 - [DEBUG] Listening on port 8093
+2024-10-26 17:05:49 - [INFO] Starting debug log...
+2024-10-26 17:05:49 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 17:05:49 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:05:49 - [DEBUG] Socket created
+2024-10-26 17:05:49 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:05:49 - [DEBUG] Socket created
+2024-10-26 17:05:49 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:05:49 - [DEBUG] Socket created
+2024-10-26 17:05:49 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:05:49 - [DEBUG] Socket created
+2024-10-26 17:05:50 - [DEBUG] Socket created
+2024-10-26 17:05:50 - [DEBUG] Socket options set
+2024-10-26 17:05:50 - [DEBUG] Binded to port 8090
+2024-10-26 17:05:50 - [DEBUG] Listening on port 8090
+2024-10-26 17:05:50 - [DEBUG] Socket created
+2024-10-26 17:05:50 - [DEBUG] Socket options set
+2024-10-26 17:05:50 - [DEBUG] Binded to port 8091
+2024-10-26 17:05:50 - [DEBUG] Listening on port 8091
+2024-10-26 17:05:50 - [DEBUG] Socket created
+2024-10-26 17:05:50 - [DEBUG] Socket options set
+2024-10-26 17:05:50 - [DEBUG] Binded to port 8092
+2024-10-26 17:05:50 - [DEBUG] Listening on port 8092
+2024-10-26 17:05:50 - [DEBUG] Socket created
+2024-10-26 17:05:50 - [DEBUG] Socket options set
+2024-10-26 17:05:50 - [DEBUG] Binded to port 8093
+2024-10-26 17:05:50 - [DEBUG] Listening on port 8093
+2024-10-26 17:10:12 - [INFO] Starting debug log...
+2024-10-26 17:10:12 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 17:10:12 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:10:12 - [DEBUG] Socket created
+2024-10-26 17:10:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:10:13 - [DEBUG] Socket created
+2024-10-26 17:10:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:10:13 - [DEBUG] Socket created
+2024-10-26 17:10:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:10:13 - [DEBUG] Socket created
+2024-10-26 17:10:13 - [DEBUG] Socket created
+2024-10-26 17:10:13 - [DEBUG] Socket options set
+2024-10-26 17:10:13 - [DEBUG] Binded to port 8090
+2024-10-26 17:10:13 - [DEBUG] Listening on port 8090
+2024-10-26 17:10:13 - [DEBUG] Socket created
+2024-10-26 17:10:13 - [DEBUG] Socket options set
+2024-10-26 17:10:13 - [DEBUG] Binded to port 8091
+2024-10-26 17:10:13 - [DEBUG] Listening on port 8091
+2024-10-26 17:10:13 - [DEBUG] Socket created
+2024-10-26 17:10:13 - [DEBUG] Socket options set
+2024-10-26 17:10:13 - [DEBUG] Binded to port 8092
+2024-10-26 17:10:13 - [DEBUG] Listening on port 8092
+2024-10-26 17:10:13 - [DEBUG] Socket created
+2024-10-26 17:10:13 - [DEBUG] Socket options set
+2024-10-26 17:10:13 - [DEBUG] Binded to port 8093
+2024-10-26 17:10:13 - [DEBUG] Listening on port 8093
+2024-10-26 17:25:05 - [INFO] Starting debug log...
+2024-10-26 17:25:05 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-26 17:25:05 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:25:05 - [DEBUG] Socket created
+2024-10-26 17:25:05 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:25:05 - [DEBUG] Socket created
+2024-10-26 17:25:05 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:25:05 - [DEBUG] Socket created
+2024-10-26 17:25:05 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-26 17:25:05 - [DEBUG] Socket created
+2024-10-26 17:25:05 - [DEBUG] Socket created
+2024-10-26 17:25:05 - [DEBUG] Socket options set
+2024-10-26 17:25:05 - [DEBUG] Binded to port 8090
+2024-10-26 17:25:05 - [DEBUG] Listening on port 8090
+2024-10-26 17:25:05 - [DEBUG] Socket created
+2024-10-26 17:25:05 - [DEBUG] Socket options set
+2024-10-26 17:25:05 - [DEBUG] Binded to port 8091
+2024-10-26 17:25:05 - [DEBUG] Listening on port 8091
+2024-10-26 17:25:05 - [DEBUG] Socket created
+2024-10-26 17:25:05 - [DEBUG] Socket options set
+2024-10-26 17:25:05 - [DEBUG] Binded to port 8092
+2024-10-26 17:25:05 - [DEBUG] Listening on port 8092
+2024-10-26 17:25:05 - [DEBUG] Socket created
+2024-10-26 17:25:05 - [DEBUG] Socket options set
+2024-10-26 17:25:05 - [DEBUG] Binded to port 8093
+2024-10-26 17:25:05 - [DEBUG] Listening on port 8093

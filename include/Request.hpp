@@ -1,51 +1,39 @@
 #ifndef REQUEST_HPP
 #define REQUEST_HPP
 
-#include "HttpMessage.hpp"
-#include <string>
-#include <sstream>
-#include <map>
-#include <set>
-#include <iostream>
+#include "Includes.hpp"
+#include "Config.hpp"
 
-class Request : public HttpMessage
+class Request
 {
-	private:
-		std::string method;
-		std::string uri;
-		bool requestIsValid;
-		std::string rawRequest;
 
-	public:
-		Request();
+private:
+	httpMethod _method;								 // Método HTTP (GET, POST, DELETE)
+	std::string _uri;							 // URI da requisição
+	std::map<std::string, std::string> _headers; // Cabeçalhos HTTP
+	std::string _body;							 // Corpo da requisição, se houver
+	std::string _rawRequest;					 // Requisição bruta para parseamento
 
-		// Função para processar e validar a requisição
-		bool parseRequest(const std::string& raw_request);
-		bool isComplete(const std::string& raw_request) const;
-		bool keepAlive() const;
+public:
+	// Construtor que recebe a requisição bruta
+	Request(const std::string &rawRequest);
 
-		// Getters
-		std::string getMethod() const;
-		std::string getUri() const;
-		bool isRequestValid() const;
-		std::string getRawRequest() const;
+	// Métodos para acessar os dados da requisição
+	httpMethod getMethod() const;									  // Retorna o método da requisição
+	const std::string &getUri() const;							  // Retorna a URI
+	const std::string &getHeader(const std::string &name) const;  // Retorna o valor de um cabeçalho específico
+	const std::map<std::string, std::string> &getHeaders() const; // Retorna todos os cabeçalhos
+	const std::string &getBody() const;							  // Retorna o corpo da requisição
 
-		// Setters (se necessário)
-		void setMethod(const std::string& m);
-		void setUri(const std::string& u);
-		void setRawRequest(const std::string& r);
+private:
+	// Método privado para fazer o parsing da requisição
+	void parseRequest();
+	void parseMethodAndUri(const std::string &line);				// Extrai o método e a URI da linha inicial
+	void parseHeaders(const std::vector<std::string> &headerLines); // Extrai os cabeçalhos
+	void parseBody(const std::string &body);						// Extrai o corpo da requisição, se houver
 
-		// Funções auxiliares
-		bool validateContentLength();
-
-
-	private:
-		bool parseStartLine(const std::string& start_line);
-		bool parseHeaders(const std::string& header_part);
-		bool validateMethod();
-		bool validateHttpVersion();
-		std::set<std::string> createValidMethods();
-
+	// Funções auxiliares
+	httpMethod parseMethod(const std::string &method); // Converte string para enum Method
 };
 
 #endif // REQUEST_HPP

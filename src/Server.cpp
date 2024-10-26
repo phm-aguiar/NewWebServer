@@ -1,24 +1,13 @@
 #include "Server.hpp"
 #include "Globals.hpp"
 
-std::string uuidGenerator()
-{
-	std::stringstream ss;
-	ss << std::hex << std::uppercase;
-	for (int i = 0; i < 8; i++)
-	{
-		ss << rand() % 16;
-	}
-	return ss.str();
-}
-
-Server::Server(const ServerConfigs &config, Logger &logger) : _logger(logger), _config(config)
+Server::Server(ServerConfigs &config, Logger &logger, EpollManager &epoll)
+	: _epoll(epoll), _logger(logger), _config(config)
 {
 	_backlog = SOMAXCONN;
 	_serverSocket = -1;
-	_epoll = EpollManager();
-	_uuid = uuidGenerator();
 }
+
 Server::~Server()
 {
 	if (_serverSocket != -1)
@@ -34,22 +23,10 @@ bool Server::initialize() {
 	return true;
  }
 
-void Server::run()
-{
-	std::stringstream ss;
-	ss << "Server " << _uuid << COLORIZE(GREEN, " Running ");
-	ss << _config.serverName << ":" << _config.port;
-	_logger.logDebug(LOG_INFO, ss.str(), true);
-
-	while (!stop)
-	{
-		sleep(1);
-	}
-}
-
 bool Server::createSocket()
 {
 	_serverSocket = socket(AF_INET, SOCK_STREAM, 0);
+
 
 	if (_serverSocket < 0)
 	{
@@ -80,7 +57,7 @@ bool Server::bindSocket()
 		return logErrorAndClose(log.str());
 	}
 	log << "Binded to port " << _config.port;
-	_logger.logDebug(LOG_DEBUG, log.str(), true);
+	_logger.logDebug(LOG_DEBUG, log.str());
 	return true;
 }
 
@@ -93,7 +70,7 @@ bool Server::listenSocket()
 		return logErrorAndClose(log.str());
 	}
 	log << "Listening on port " << _config.port;
-	_logger.logDebug(LOG_DEBUG, log.str(), true);
+	_logger.logDebug(LOG_DEBUG, log.str());
 	return true;
 }
 
@@ -108,27 +85,10 @@ bool Server::configureSocket()
 		return logErrorAndClose(log.str());
 	}
 	log << "Socket options set";
-	_logger.logDebug(LOG_DEBUG, log.str(), true);
+	_logger.logDebug(LOG_DEBUG, log.str());
 	return true;
 }
 
-std::string Server::getUuid()
-{
-	return _uuid;
-}
 
 
-void Server::acceptConnection()
-{
-	sockaddrIn client_addr;
-	socklen_t client_len = sizeof(client_addr);
-	int client_socket = accept(_serverSocket, (sockAddr *)&client_addr, &client_len);
-	if (client_socket < 0)
-	{
-		_logger.logError(LOG_ERROR, "Error accepting connection");
-		return;
-	}
-	_logger.logDebug(LOG_DEBUG, "Accepted connection", true);
-	_epoll.addToEpoll(client_socket, EPOLLIN);
-}
 

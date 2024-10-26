@@ -1,9 +1,10 @@
 
-#ifndef EPOLLMANAGER_HPP_
-#define EPOLLMANAGER_HPP_
+#ifndef EPOLLMANAGER_HPP
+#define EPOLLMANAGER_HPP
 
 // Class declaration
 #include "Logger.hpp"
+#include "Fds.hpp"
 
 // Classe encapsulando a lógica de Epoll
 class EpollManager
@@ -11,9 +12,10 @@ class EpollManager
 	public:
 		EpollManager(Logger &logger);
 		~EpollManager();
+		EpollManager &operator=(const EpollManager &rhs);
 		bool addToEpoll(int sockfd, uint32_t events);
 		bool removeFromEpoll(int sockfd);
-		void modifyEpoll(int sockfd, uint32_t events);
+		bool modifyEpoll(int sockfd, uint32_t events);
 		int getEpollFD() const;
 
 	private:
@@ -23,4 +25,4 @@ class EpollManager
 
 };
 
-#endif // EPOLLMANAGER_HPP_
+#endif // EPOLLMANAGER_HPP

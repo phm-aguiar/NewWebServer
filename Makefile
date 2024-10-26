@@ -22,6 +22,7 @@ BUILD_TEST	=	./build_test
 SRCS		=	src/Config.cpp src/ConfigExtract.cpp \
 				src/ConfigUtils.cpp src/Logger.cpp \
 				src/Utils.cpp src/Server.cpp src/EpoolManager.cpp \
+				src/Fds.cpp  src/ServerManager.cpp \
 				src/main.cpp
 # SRCS		=	src/CGI.cpp src/CGIUtils.cpp src/Config.cpp src/ConfigExtract.cpp \
 # 				src/ConfigUtils.cpp src/HttpError.cpp src/listDirectory.cpp \
@@ -93,3 +94,7 @@ run: all
 tests: $(TESTNAME)
 	@echo $(CYAN)[Running tests...]$(LIMITER)
 	./$(TESTNAME) config/testServer.conf
+
+valgrind: all
+	@echo $(CYAN)[Running valgrind...]$(LIMITER)
+	valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes ./$(NAME) config/testServer.conf

@@ -165,27 +165,15 @@ Config &getConfig()
 	return *config;
 }
 
-void signals(int sig)
-{
-	if (sig == SIGINT || sig == SIGQUIT || sig == SIGTERM)
-	{
-		stop = 1;
-	}
-}
-
 void exitHandler(int sig)
 {
 	if (sig == SIGINT || sig == SIGQUIT || sig == SIGTERM)
 	{
+		stop = 1;
 		std::cout << "Exiting...👋🚪" << std::endl;
 	}
 }
 
-void setupSignalForkHandlers()
-{
-	signal(SIGINT, signals);
-	signal(SIGQUIT, signals);
-}
 
 void setupSignalHandlers()
 {
