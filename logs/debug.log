@@ -1514,3 +1514,1803 @@
 2024-10-26 17:25:05 - [DEBUG] Socket options set
 2024-10-26 17:25:05 - [DEBUG] Binded to port 8093
 2024-10-26 17:25:05 - [DEBUG] Listening on port 8093
+2024-10-27 11:43:48 - [INFO] Starting debug log...
+2024-10-27 11:43:48 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 11:43:48 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 11:43:48 - [DEBUG] Socket created
+2024-10-27 11:43:48 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 11:43:48 - [DEBUG] Socket created
+2024-10-27 11:43:48 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 11:43:48 - [DEBUG] Socket created
+2024-10-27 11:43:48 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 11:43:48 - [DEBUG] Socket created
+2024-10-27 11:43:48 - [DEBUG] Socket created
+2024-10-27 11:43:48 - [DEBUG] Socket options set
+2024-10-27 11:43:48 - [DEBUG] Binded to port 8090
+2024-10-27 11:43:48 - [DEBUG] Listening on port 8090
+2024-10-27 11:43:48 - [DEBUG] Socket created
+2024-10-27 11:43:48 - [DEBUG] Socket options set
+2024-10-27 11:43:48 - [DEBUG] Binded to port 8091
+2024-10-27 11:43:48 - [DEBUG] Listening on port 8091
+2024-10-27 11:43:48 - [DEBUG] Socket created
+2024-10-27 11:43:48 - [DEBUG] Socket options set
+2024-10-27 11:43:48 - [DEBUG] Binded to port 8092
+2024-10-27 11:43:48 - [DEBUG] Listening on port 8092
+2024-10-27 11:43:48 - [DEBUG] Socket created
+2024-10-27 11:43:48 - [DEBUG] Socket options set
+2024-10-27 11:43:48 - [DEBUG] Binded to port 8093
+2024-10-27 11:43:48 - [DEBUG] Listening on port 8093
+2024-10-27 11:46:09 - [INFO] Starting debug log...
+2024-10-27 11:46:33 - [INFO] Starting debug log...
+2024-10-27 11:47:42 - [INFO] Starting debug log...
+2024-10-27 11:47:50 - [INFO] Starting debug log...
+2024-10-27 12:48:59 - [INFO] Starting debug log...
+2024-10-27 12:48:59 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 12:48:59 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:48:59 - [DEBUG] Socket created
+2024-10-27 12:48:59 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:48:59 - [DEBUG] Socket created
+2024-10-27 12:48:59 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:48:59 - [DEBUG] Socket created
+2024-10-27 12:48:59 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:48:59 - [DEBUG] Socket created
+2024-10-27 12:48:59 - [DEBUG] Socket created
+2024-10-27 12:48:59 - [DEBUG] Socket options set
+2024-10-27 12:48:59 - [DEBUG] Binded to port 8090
+2024-10-27 12:48:59 - [DEBUG] Listening on port 8090
+2024-10-27 12:48:59 - [DEBUG] Socket created
+2024-10-27 12:48:59 - [DEBUG] Socket options set
+2024-10-27 12:48:59 - [DEBUG] Binded to port 8091
+2024-10-27 12:48:59 - [DEBUG] Listening on port 8091
+2024-10-27 12:48:59 - [DEBUG] Socket created
+2024-10-27 12:48:59 - [DEBUG] Socket options set
+2024-10-27 12:48:59 - [DEBUG] Binded to port 8092
+2024-10-27 12:48:59 - [DEBUG] Listening on port 8092
+2024-10-27 12:48:59 - [DEBUG] Socket created
+2024-10-27 12:48:59 - [DEBUG] Socket options set
+2024-10-27 12:48:59 - [DEBUG] Binded to port 8093
+2024-10-27 12:48:59 - [DEBUG] Listening on port 8093
+2024-10-27 12:52:16 - [INFO] Starting debug log...
+2024-10-27 12:52:16 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 12:52:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:52:17 - [DEBUG] Socket created
+2024-10-27 12:52:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:52:17 - [DEBUG] Socket created
+2024-10-27 12:52:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:52:17 - [DEBUG] Socket created
+2024-10-27 12:52:17 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:52:17 - [DEBUG] Socket created
+2024-10-27 12:52:17 - [DEBUG] Socket created
+2024-10-27 12:52:17 - [DEBUG] Socket options set
+2024-10-27 12:52:17 - [DEBUG] Binded to port 8090
+2024-10-27 12:52:17 - [DEBUG] Listening on port 8090
+2024-10-27 12:52:17 - [DEBUG] Socket created
+2024-10-27 12:52:17 - [DEBUG] Socket options set
+2024-10-27 12:52:17 - [DEBUG] Binded to port 8091
+2024-10-27 12:52:17 - [DEBUG] Listening on port 8091
+2024-10-27 12:52:17 - [DEBUG] Socket created
+2024-10-27 12:52:17 - [DEBUG] Socket options set
+2024-10-27 12:52:17 - [DEBUG] Binded to port 8092
+2024-10-27 12:52:17 - [DEBUG] Listening on port 8092
+2024-10-27 12:52:17 - [DEBUG] Socket created
+2024-10-27 12:52:17 - [DEBUG] Socket options set
+2024-10-27 12:52:17 - [DEBUG] Binded to port 8093
+2024-10-27 12:52:17 - [DEBUG] Listening on port 8093
+2024-10-27 12:53:23 - [INFO] Starting debug log...
+2024-10-27 12:53:23 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 12:53:24 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:53:24 - [DEBUG] Socket created
+2024-10-27 12:53:24 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:53:24 - [DEBUG] Socket created
+2024-10-27 12:53:24 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:53:24 - [DEBUG] Socket created
+2024-10-27 12:53:24 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:53:24 - [DEBUG] Socket created
+2024-10-27 12:53:24 - [DEBUG] Socket created
+2024-10-27 12:53:24 - [DEBUG] Socket options set
+2024-10-27 12:53:24 - [DEBUG] Binded to port 8090
+2024-10-27 12:53:24 - [DEBUG] Listening on port 8090
+2024-10-27 12:53:24 - [DEBUG] Socket created
+2024-10-27 12:53:24 - [DEBUG] Socket options set
+2024-10-27 12:53:24 - [DEBUG] Binded to port 8091
+2024-10-27 12:53:24 - [DEBUG] Listening on port 8091
+2024-10-27 12:53:24 - [DEBUG] Socket created
+2024-10-27 12:53:24 - [DEBUG] Socket options set
+2024-10-27 12:53:24 - [DEBUG] Binded to port 8092
+2024-10-27 12:53:24 - [DEBUG] Listening on port 8092
+2024-10-27 12:53:24 - [DEBUG] Socket created
+2024-10-27 12:53:24 - [DEBUG] Socket options set
+2024-10-27 12:53:24 - [DEBUG] Binded to port 8093
+2024-10-27 12:53:24 - [DEBUG] Listening on port 8093
+2024-10-27 12:56:04 - [INFO] Starting debug log...
+2024-10-27 12:56:04 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 12:56:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:56:04 - [DEBUG] Socket created
+2024-10-27 12:56:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:56:04 - [DEBUG] Socket created
+2024-10-27 12:56:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:56:04 - [DEBUG] Socket created
+2024-10-27 12:56:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:56:04 - [DEBUG] Socket created
+2024-10-27 12:56:04 - [DEBUG] Socket created
+2024-10-27 12:56:04 - [DEBUG] Socket options set
+2024-10-27 12:56:04 - [DEBUG] Binded to port 8090
+2024-10-27 12:56:04 - [DEBUG] Listening on port 8090
+2024-10-27 12:56:04 - [DEBUG] Socket created
+2024-10-27 12:56:04 - [DEBUG] Socket options set
+2024-10-27 12:56:04 - [DEBUG] Binded to port 8091
+2024-10-27 12:56:04 - [DEBUG] Listening on port 8091
+2024-10-27 12:56:04 - [DEBUG] Socket created
+2024-10-27 12:56:04 - [DEBUG] Socket options set
+2024-10-27 12:56:04 - [DEBUG] Binded to port 8092
+2024-10-27 12:56:04 - [DEBUG] Listening on port 8092
+2024-10-27 12:56:04 - [DEBUG] Socket created
+2024-10-27 12:56:04 - [DEBUG] Socket options set
+2024-10-27 12:56:04 - [DEBUG] Binded to port 8093
+2024-10-27 12:56:04 - [DEBUG] Listening on port 8093
+2024-10-27 12:57:07 - [INFO] Starting debug log...
+2024-10-27 12:57:07 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 12:57:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:57:08 - [DEBUG] Socket created
+2024-10-27 12:57:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:57:08 - [DEBUG] Socket created
+2024-10-27 12:57:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:57:08 - [DEBUG] Socket created
+2024-10-27 12:57:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:57:08 - [DEBUG] Socket created
+2024-10-27 12:57:08 - [DEBUG] Socket created
+2024-10-27 12:57:08 - [DEBUG] Socket options set
+2024-10-27 12:57:08 - [DEBUG] Binded to port 8090
+2024-10-27 12:57:08 - [DEBUG] Listening on port 8090
+2024-10-27 12:57:08 - [DEBUG] Socket created
+2024-10-27 12:57:08 - [DEBUG] Socket options set
+2024-10-27 12:57:08 - [DEBUG] Binded to port 8091
+2024-10-27 12:57:08 - [DEBUG] Listening on port 8091
+2024-10-27 12:57:08 - [DEBUG] Socket created
+2024-10-27 12:57:08 - [DEBUG] Socket options set
+2024-10-27 12:57:08 - [DEBUG] Binded to port 8092
+2024-10-27 12:57:08 - [DEBUG] Listening on port 8092
+2024-10-27 12:57:08 - [DEBUG] Socket created
+2024-10-27 12:57:08 - [DEBUG] Socket options set
+2024-10-27 12:57:08 - [DEBUG] Binded to port 8093
+2024-10-27 12:57:08 - [DEBUG] Listening on port 8093
+2024-10-27 12:57:40 - [INFO] Starting debug log...
+2024-10-27 12:57:40 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 12:57:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:57:40 - [DEBUG] Socket created
+2024-10-27 12:57:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:57:40 - [DEBUG] Socket created
+2024-10-27 12:57:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:57:40 - [DEBUG] Socket created
+2024-10-27 12:57:40 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 12:57:40 - [DEBUG] Socket created
+2024-10-27 12:57:40 - [DEBUG] Socket created
+2024-10-27 12:57:40 - [DEBUG] Socket options set
+2024-10-27 12:57:40 - [DEBUG] Binded to port 8090
+2024-10-27 12:57:40 - [DEBUG] Listening on port 8090
+2024-10-27 12:57:40 - [DEBUG] Socket created
+2024-10-27 12:57:40 - [DEBUG] Socket options set
+2024-10-27 12:57:40 - [DEBUG] Binded to port 8091
+2024-10-27 12:57:40 - [DEBUG] Listening on port 8091
+2024-10-27 12:57:40 - [DEBUG] Socket created
+2024-10-27 12:57:40 - [DEBUG] Socket options set
+2024-10-27 12:57:40 - [DEBUG] Binded to port 8092
+2024-10-27 12:57:40 - [DEBUG] Listening on port 8092
+2024-10-27 12:57:40 - [DEBUG] Socket created
+2024-10-27 12:57:40 - [DEBUG] Socket options set
+2024-10-27 12:57:40 - [DEBUG] Binded to port 8093
+2024-10-27 12:57:40 - [DEBUG] Listening on port 8093
+2024-10-27 13:00:08 - [INFO] Starting debug log...
+2024-10-27 13:00:08 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:00:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:00:08 - [DEBUG] Socket created
+2024-10-27 13:00:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:00:08 - [DEBUG] Socket created
+2024-10-27 13:00:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:00:08 - [DEBUG] Socket created
+2024-10-27 13:00:08 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:00:08 - [DEBUG] Socket created
+2024-10-27 13:00:08 - [DEBUG] Socket created
+2024-10-27 13:00:08 - [DEBUG] Socket options set
+2024-10-27 13:00:08 - [DEBUG] Binded to port 8090
+2024-10-27 13:00:08 - [DEBUG] Listening on port 8090
+2024-10-27 13:00:08 - [DEBUG] Socket created
+2024-10-27 13:00:08 - [DEBUG] Socket options set
+2024-10-27 13:00:08 - [DEBUG] Binded to port 8091
+2024-10-27 13:00:08 - [DEBUG] Listening on port 8091
+2024-10-27 13:00:08 - [DEBUG] Socket created
+2024-10-27 13:00:08 - [DEBUG] Socket options set
+2024-10-27 13:00:08 - [DEBUG] Binded to port 8092
+2024-10-27 13:00:08 - [DEBUG] Listening on port 8092
+2024-10-27 13:00:08 - [DEBUG] Socket created
+2024-10-27 13:00:08 - [DEBUG] Socket options set
+2024-10-27 13:00:08 - [DEBUG] Binded to port 8093
+2024-10-27 13:00:08 - [DEBUG] Listening on port 8093
+2024-10-27 13:02:21 - [INFO] Starting debug log...
+2024-10-27 13:02:21 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:02:21 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:02:21 - [DEBUG] Socket created
+2024-10-27 13:02:21 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:02:21 - [DEBUG] Socket created
+2024-10-27 13:02:21 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:02:21 - [DEBUG] Socket created
+2024-10-27 13:02:21 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:02:21 - [DEBUG] Socket created
+2024-10-27 13:02:21 - [DEBUG] Socket created
+2024-10-27 13:02:21 - [DEBUG] Socket options set
+2024-10-27 13:02:21 - [DEBUG] Binded to port 8090
+2024-10-27 13:02:21 - [DEBUG] Listening on port 8090
+2024-10-27 13:02:21 - [DEBUG] Socket created
+2024-10-27 13:02:21 - [DEBUG] Socket options set
+2024-10-27 13:02:21 - [DEBUG] Binded to port 8091
+2024-10-27 13:02:21 - [DEBUG] Listening on port 8091
+2024-10-27 13:02:21 - [DEBUG] Socket created
+2024-10-27 13:02:21 - [DEBUG] Socket options set
+2024-10-27 13:02:21 - [DEBUG] Binded to port 8092
+2024-10-27 13:02:21 - [DEBUG] Listening on port 8092
+2024-10-27 13:02:21 - [DEBUG] Socket created
+2024-10-27 13:02:21 - [DEBUG] Socket options set
+2024-10-27 13:02:21 - [DEBUG] Binded to port 8093
+2024-10-27 13:02:21 - [DEBUG] Listening on port 8093
+2024-10-27 13:12:33 - [INFO] Starting debug log...
+2024-10-27 13:12:33 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:12:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:12:33 - [DEBUG] Socket created
+2024-10-27 13:12:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:12:33 - [DEBUG] Socket created
+2024-10-27 13:12:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:12:33 - [DEBUG] Socket created
+2024-10-27 13:12:33 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:12:33 - [DEBUG] Socket created
+2024-10-27 13:12:33 - [DEBUG] Socket created
+2024-10-27 13:12:33 - [DEBUG] Socket options set
+2024-10-27 13:12:33 - [DEBUG] Binded to port 8090
+2024-10-27 13:12:33 - [DEBUG] Listening on port 8090
+2024-10-27 13:12:33 - [DEBUG] Socket created
+2024-10-27 13:12:33 - [DEBUG] Socket options set
+2024-10-27 13:12:33 - [DEBUG] Binded to port 8091
+2024-10-27 13:12:33 - [DEBUG] Listening on port 8091
+2024-10-27 13:12:33 - [DEBUG] Socket created
+2024-10-27 13:12:33 - [DEBUG] Socket options set
+2024-10-27 13:12:33 - [DEBUG] Binded to port 8092
+2024-10-27 13:12:33 - [DEBUG] Listening on port 8092
+2024-10-27 13:12:33 - [DEBUG] Socket created
+2024-10-27 13:12:33 - [DEBUG] Socket options set
+2024-10-27 13:12:33 - [DEBUG] Binded to port 8093
+2024-10-27 13:12:33 - [DEBUG] Listening on port 8093
+2024-10-27 13:37:04 - [INFO] Starting debug log...
+2024-10-27 13:37:04 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:37:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:37:04 - [DEBUG] Socket created
+2024-10-27 13:37:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:37:04 - [DEBUG] Socket created
+2024-10-27 13:37:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:37:04 - [DEBUG] Socket created
+2024-10-27 13:37:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:37:04 - [DEBUG] Socket created
+2024-10-27 13:37:04 - [DEBUG] Socket created
+2024-10-27 13:37:04 - [DEBUG] Socket options set
+2024-10-27 13:37:04 - [DEBUG] Binded to port 8090
+2024-10-27 13:37:04 - [DEBUG] Listening on port 8090
+2024-10-27 13:37:04 - [DEBUG] Socket created
+2024-10-27 13:37:04 - [DEBUG] Socket options set
+2024-10-27 13:37:04 - [DEBUG] Binded to port 8091
+2024-10-27 13:37:04 - [DEBUG] Listening on port 8091
+2024-10-27 13:37:04 - [DEBUG] Socket created
+2024-10-27 13:37:04 - [DEBUG] Socket options set
+2024-10-27 13:37:04 - [DEBUG] Binded to port 8092
+2024-10-27 13:37:04 - [DEBUG] Listening on port 8092
+2024-10-27 13:37:04 - [DEBUG] Socket created
+2024-10-27 13:37:04 - [DEBUG] Socket options set
+2024-10-27 13:37:04 - [DEBUG] Binded to port 8093
+2024-10-27 13:37:04 - [DEBUG] Listening on port 8093
+2024-10-27 13:38:00 - [INFO] Starting debug log...
+2024-10-27 13:38:00 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:38:00 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:38:00 - [DEBUG] Socket created
+2024-10-27 13:38:00 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:38:00 - [DEBUG] Socket created
+2024-10-27 13:38:00 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:38:00 - [DEBUG] Socket created
+2024-10-27 13:38:00 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:38:00 - [DEBUG] Socket created
+2024-10-27 13:38:00 - [DEBUG] Socket created
+2024-10-27 13:38:00 - [DEBUG] Socket options set
+2024-10-27 13:38:00 - [DEBUG] Binded to port 8090
+2024-10-27 13:38:00 - [DEBUG] Listening on port 8090
+2024-10-27 13:38:00 - [DEBUG] Socket created
+2024-10-27 13:38:00 - [DEBUG] Socket options set
+2024-10-27 13:38:00 - [DEBUG] Binded to port 8091
+2024-10-27 13:38:00 - [DEBUG] Listening on port 8091
+2024-10-27 13:38:00 - [DEBUG] Socket created
+2024-10-27 13:38:00 - [DEBUG] Socket options set
+2024-10-27 13:38:00 - [DEBUG] Binded to port 8092
+2024-10-27 13:38:00 - [DEBUG] Listening on port 8092
+2024-10-27 13:38:00 - [DEBUG] Socket created
+2024-10-27 13:38:00 - [DEBUG] Socket options set
+2024-10-27 13:38:00 - [DEBUG] Binded to port 8093
+2024-10-27 13:38:00 - [DEBUG] Listening on port 8093
+2024-10-27 13:42:21 - [INFO] Starting debug log...
+2024-10-27 13:42:21 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:42:21 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:42:21 - [DEBUG] Socket created
+2024-10-27 13:42:21 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:42:21 - [DEBUG] Socket created
+2024-10-27 13:42:21 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:42:21 - [DEBUG] Socket created
+2024-10-27 13:42:21 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:42:21 - [DEBUG] Socket created
+2024-10-27 13:42:21 - [DEBUG] Socket created
+2024-10-27 13:42:21 - [DEBUG] Socket options set
+2024-10-27 13:42:21 - [DEBUG] Binded to port 8090
+2024-10-27 13:42:21 - [DEBUG] Listening on port 8090
+2024-10-27 13:42:21 - [DEBUG] Socket created
+2024-10-27 13:42:21 - [DEBUG] Socket options set
+2024-10-27 13:42:21 - [DEBUG] Binded to port 8091
+2024-10-27 13:42:21 - [DEBUG] Listening on port 8091
+2024-10-27 13:42:21 - [DEBUG] Socket created
+2024-10-27 13:42:21 - [DEBUG] Socket options set
+2024-10-27 13:42:21 - [DEBUG] Binded to port 8092
+2024-10-27 13:42:21 - [DEBUG] Listening on port 8092
+2024-10-27 13:42:21 - [DEBUG] Socket created
+2024-10-27 13:42:21 - [DEBUG] Socket options set
+2024-10-27 13:42:21 - [DEBUG] Binded to port 8093
+2024-10-27 13:42:21 - [DEBUG] Listening on port 8093
+2024-10-27 13:43:38 - [INFO] Starting debug log...
+2024-10-27 13:43:38 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:43:38 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:43:38 - [DEBUG] Socket created
+2024-10-27 13:43:38 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:43:38 - [DEBUG] Socket created
+2024-10-27 13:43:38 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:43:38 - [DEBUG] Socket created
+2024-10-27 13:43:38 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:43:38 - [DEBUG] Socket created
+2024-10-27 13:43:38 - [DEBUG] Socket created
+2024-10-27 13:43:38 - [DEBUG] Socket options set
+2024-10-27 13:43:38 - [DEBUG] Binded to port 8090
+2024-10-27 13:43:38 - [DEBUG] Listening on port 8090
+2024-10-27 13:43:38 - [DEBUG] Socket created
+2024-10-27 13:43:38 - [DEBUG] Socket options set
+2024-10-27 13:43:38 - [DEBUG] Binded to port 8091
+2024-10-27 13:43:38 - [DEBUG] Listening on port 8091
+2024-10-27 13:43:38 - [DEBUG] Socket created
+2024-10-27 13:43:38 - [DEBUG] Socket options set
+2024-10-27 13:43:38 - [DEBUG] Binded to port 8092
+2024-10-27 13:43:38 - [DEBUG] Listening on port 8092
+2024-10-27 13:43:38 - [DEBUG] Socket created
+2024-10-27 13:43:38 - [DEBUG] Socket options set
+2024-10-27 13:43:38 - [DEBUG] Binded to port 8093
+2024-10-27 13:43:38 - [DEBUG] Listening on port 8093
+2024-10-27 13:44:55 - [INFO] Starting debug log...
+2024-10-27 13:44:55 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:44:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:44:55 - [DEBUG] Socket created
+2024-10-27 13:44:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:44:55 - [DEBUG] Socket created
+2024-10-27 13:44:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:44:55 - [DEBUG] Socket created
+2024-10-27 13:44:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:44:55 - [DEBUG] Socket created
+2024-10-27 13:44:55 - [DEBUG] Socket created
+2024-10-27 13:44:55 - [DEBUG] Socket options set
+2024-10-27 13:44:55 - [DEBUG] Binded to port 8090
+2024-10-27 13:44:55 - [DEBUG] Listening on port 8090
+2024-10-27 13:44:55 - [DEBUG] Socket created
+2024-10-27 13:44:55 - [DEBUG] Socket options set
+2024-10-27 13:44:55 - [DEBUG] Binded to port 8091
+2024-10-27 13:44:55 - [DEBUG] Listening on port 8091
+2024-10-27 13:44:55 - [DEBUG] Socket created
+2024-10-27 13:44:55 - [DEBUG] Socket options set
+2024-10-27 13:44:55 - [DEBUG] Binded to port 8092
+2024-10-27 13:44:55 - [DEBUG] Listening on port 8092
+2024-10-27 13:44:55 - [DEBUG] Socket created
+2024-10-27 13:44:55 - [DEBUG] Socket options set
+2024-10-27 13:44:55 - [DEBUG] Binded to port 8093
+2024-10-27 13:44:55 - [DEBUG] Listening on port 8093
+2024-10-27 13:48:19 - [INFO] Starting debug log...
+2024-10-27 13:48:19 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:48:19 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:48:19 - [DEBUG] Socket created
+2024-10-27 13:48:19 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:48:19 - [DEBUG] Socket created
+2024-10-27 13:48:19 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:48:19 - [DEBUG] Socket created
+2024-10-27 13:48:19 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:48:19 - [DEBUG] Socket created
+2024-10-27 13:48:19 - [DEBUG] Socket created
+2024-10-27 13:48:19 - [DEBUG] Socket options set
+2024-10-27 13:48:19 - [DEBUG] Binded to port 8090
+2024-10-27 13:48:19 - [DEBUG] Listening on port 8090
+2024-10-27 13:48:19 - [DEBUG] Socket created
+2024-10-27 13:48:19 - [DEBUG] Socket options set
+2024-10-27 13:48:19 - [DEBUG] Binded to port 8091
+2024-10-27 13:48:19 - [DEBUG] Listening on port 8091
+2024-10-27 13:48:19 - [DEBUG] Socket created
+2024-10-27 13:48:19 - [DEBUG] Socket options set
+2024-10-27 13:48:19 - [DEBUG] Binded to port 8092
+2024-10-27 13:48:19 - [DEBUG] Listening on port 8092
+2024-10-27 13:48:19 - [DEBUG] Socket created
+2024-10-27 13:48:19 - [DEBUG] Socket options set
+2024-10-27 13:48:19 - [DEBUG] Binded to port 8093
+2024-10-27 13:48:19 - [DEBUG] Listening on port 8093
+2024-10-27 13:54:11 - [INFO] Starting debug log...
+2024-10-27 13:54:11 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:54:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:54:11 - [DEBUG] Socket created
+2024-10-27 13:54:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:54:11 - [DEBUG] Socket created
+2024-10-27 13:54:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:54:11 - [DEBUG] Socket created
+2024-10-27 13:54:11 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:54:11 - [DEBUG] Socket created
+2024-10-27 13:54:11 - [DEBUG] Socket created
+2024-10-27 13:54:11 - [DEBUG] Socket options set
+2024-10-27 13:54:11 - [DEBUG] Binded to port 8090
+2024-10-27 13:54:11 - [DEBUG] Listening on port 8090
+2024-10-27 13:54:11 - [DEBUG] Socket created
+2024-10-27 13:54:11 - [DEBUG] Socket options set
+2024-10-27 13:54:11 - [DEBUG] Binded to port 8091
+2024-10-27 13:54:11 - [DEBUG] Listening on port 8091
+2024-10-27 13:54:11 - [DEBUG] Socket created
+2024-10-27 13:54:11 - [DEBUG] Socket options set
+2024-10-27 13:54:11 - [DEBUG] Binded to port 8092
+2024-10-27 13:54:11 - [DEBUG] Listening on port 8092
+2024-10-27 13:54:11 - [DEBUG] Socket created
+2024-10-27 13:54:11 - [DEBUG] Socket options set
+2024-10-27 13:54:11 - [DEBUG] Binded to port 8093
+2024-10-27 13:54:11 - [DEBUG] Listening on port 8093
+2024-10-27 13:55:05 - [INFO] Starting debug log...
+2024-10-27 13:55:06 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:55:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:55:06 - [DEBUG] Socket created
+2024-10-27 13:55:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:55:06 - [DEBUG] Socket created
+2024-10-27 13:55:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:55:06 - [DEBUG] Socket created
+2024-10-27 13:55:06 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:55:06 - [DEBUG] Socket created
+2024-10-27 13:55:06 - [DEBUG] Socket created
+2024-10-27 13:55:06 - [DEBUG] Socket options set
+2024-10-27 13:55:06 - [DEBUG] Binded to port 8090
+2024-10-27 13:55:06 - [DEBUG] Listening on port 8090
+2024-10-27 13:55:06 - [DEBUG] Socket created
+2024-10-27 13:55:06 - [DEBUG] Socket options set
+2024-10-27 13:55:06 - [DEBUG] Binded to port 8091
+2024-10-27 13:55:06 - [DEBUG] Listening on port 8091
+2024-10-27 13:55:06 - [DEBUG] Socket created
+2024-10-27 13:55:06 - [DEBUG] Socket options set
+2024-10-27 13:55:06 - [DEBUG] Binded to port 8092
+2024-10-27 13:55:06 - [DEBUG] Listening on port 8092
+2024-10-27 13:55:06 - [DEBUG] Socket created
+2024-10-27 13:55:06 - [DEBUG] Socket options set
+2024-10-27 13:55:06 - [DEBUG] Binded to port 8093
+2024-10-27 13:55:06 - [DEBUG] Listening on port 8093
+2024-10-27 13:57:13 - [INFO] Starting debug log...
+2024-10-27 13:57:13 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:57:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:57:13 - [DEBUG] Socket created
+2024-10-27 13:57:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:57:13 - [DEBUG] Socket created
+2024-10-27 13:57:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:57:13 - [DEBUG] Socket created
+2024-10-27 13:57:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:57:13 - [DEBUG] Socket created
+2024-10-27 13:57:13 - [DEBUG] Socket created
+2024-10-27 13:57:13 - [DEBUG] Socket options set
+2024-10-27 13:57:13 - [DEBUG] Binded to port 8090
+2024-10-27 13:57:14 - [DEBUG] Listening on port 8090
+2024-10-27 13:57:14 - [DEBUG] Socket created
+2024-10-27 13:57:14 - [DEBUG] Socket options set
+2024-10-27 13:57:14 - [DEBUG] Binded to port 8091
+2024-10-27 13:57:14 - [DEBUG] Listening on port 8091
+2024-10-27 13:57:14 - [DEBUG] Socket created
+2024-10-27 13:57:14 - [DEBUG] Socket options set
+2024-10-27 13:57:14 - [DEBUG] Binded to port 8092
+2024-10-27 13:57:14 - [DEBUG] Listening on port 8092
+2024-10-27 13:57:14 - [DEBUG] Socket created
+2024-10-27 13:57:14 - [DEBUG] Socket options set
+2024-10-27 13:57:14 - [DEBUG] Binded to port 8093
+2024-10-27 13:57:14 - [DEBUG] Listening on port 8093
+2024-10-27 13:58:59 - [INFO] Starting debug log...
+2024-10-27 13:58:59 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:58:59 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:58:59 - [DEBUG] Socket created
+2024-10-27 13:58:59 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:58:59 - [DEBUG] Socket created
+2024-10-27 13:58:59 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:58:59 - [DEBUG] Socket created
+2024-10-27 13:58:59 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:58:59 - [DEBUG] Socket created
+2024-10-27 13:58:59 - [DEBUG] Socket created
+2024-10-27 13:58:59 - [DEBUG] Socket options set
+2024-10-27 13:58:59 - [DEBUG] Binded to port 8090
+2024-10-27 13:58:59 - [DEBUG] Listening on port 8090
+2024-10-27 13:58:59 - [DEBUG] Socket created
+2024-10-27 13:58:59 - [DEBUG] Socket options set
+2024-10-27 13:58:59 - [DEBUG] Binded to port 8091
+2024-10-27 13:58:59 - [DEBUG] Listening on port 8091
+2024-10-27 13:58:59 - [DEBUG] Socket created
+2024-10-27 13:58:59 - [DEBUG] Socket options set
+2024-10-27 13:58:59 - [DEBUG] Binded to port 8092
+2024-10-27 13:58:59 - [DEBUG] Listening on port 8092
+2024-10-27 13:58:59 - [DEBUG] Socket created
+2024-10-27 13:58:59 - [DEBUG] Socket options set
+2024-10-27 13:58:59 - [DEBUG] Binded to port 8093
+2024-10-27 13:58:59 - [DEBUG] Listening on port 8093
+2024-10-27 13:59:43 - [INFO] Starting debug log...
+2024-10-27 13:59:43 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 13:59:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:59:43 - [DEBUG] Socket created
+2024-10-27 13:59:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:59:43 - [DEBUG] Socket created
+2024-10-27 13:59:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:59:43 - [DEBUG] Socket created
+2024-10-27 13:59:43 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 13:59:43 - [DEBUG] Socket created
+2024-10-27 13:59:44 - [DEBUG] Socket created
+2024-10-27 13:59:44 - [DEBUG] Socket options set
+2024-10-27 13:59:44 - [DEBUG] Binded to port 8090
+2024-10-27 13:59:44 - [DEBUG] Listening on port 8090
+2024-10-27 13:59:44 - [DEBUG] Socket created
+2024-10-27 13:59:44 - [DEBUG] Socket options set
+2024-10-27 13:59:44 - [DEBUG] Binded to port 8091
+2024-10-27 13:59:44 - [DEBUG] Listening on port 8091
+2024-10-27 13:59:44 - [DEBUG] Socket created
+2024-10-27 13:59:44 - [DEBUG] Socket options set
+2024-10-27 13:59:44 - [DEBUG] Binded to port 8092
+2024-10-27 13:59:44 - [DEBUG] Listening on port 8092
+2024-10-27 13:59:44 - [DEBUG] Socket created
+2024-10-27 13:59:44 - [DEBUG] Socket options set
+2024-10-27 13:59:44 - [DEBUG] Binded to port 8093
+2024-10-27 13:59:44 - [DEBUG] Listening on port 8093
+2024-10-27 14:00:42 - [INFO] Starting debug log...
+2024-10-27 14:00:42 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 14:00:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 14:00:42 - [DEBUG] Socket created
+2024-10-27 14:00:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 14:00:42 - [DEBUG] Socket created
+2024-10-27 14:00:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 14:00:42 - [DEBUG] Socket created
+2024-10-27 14:00:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 14:00:42 - [DEBUG] Socket created
+2024-10-27 14:00:42 - [DEBUG] Socket created
+2024-10-27 14:00:42 - [DEBUG] Socket options set
+2024-10-27 14:00:42 - [DEBUG] Binded to port 8090
+2024-10-27 14:00:42 - [DEBUG] Listening on port 8090
+2024-10-27 14:00:42 - [DEBUG] Socket created
+2024-10-27 14:00:42 - [DEBUG] Socket options set
+2024-10-27 14:00:42 - [DEBUG] Binded to port 8091
+2024-10-27 14:00:42 - [DEBUG] Listening on port 8091
+2024-10-27 14:00:42 - [DEBUG] Socket created
+2024-10-27 14:00:42 - [DEBUG] Socket options set
+2024-10-27 14:00:42 - [DEBUG] Binded to port 8092
+2024-10-27 14:00:42 - [DEBUG] Listening on port 8092
+2024-10-27 14:00:42 - [DEBUG] Socket created
+2024-10-27 14:00:42 - [DEBUG] Socket options set
+2024-10-27 14:00:42 - [DEBUG] Binded to port 8093
+2024-10-27 14:00:42 - [DEBUG] Listening on port 8093
+2024-10-27 14:00:45 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 14:00:52 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 14:00:54 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 14:00:56 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 14:00:57 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 14:00:58 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 14:00:59 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 14:01:00 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 14:01:00 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 14:01:02 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:45:36 - [INFO] Starting debug log...
+2024-10-27 17:45:36 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 17:45:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:45:36 - [DEBUG] Socket created
+2024-10-27 17:45:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:45:36 - [DEBUG] Socket created
+2024-10-27 17:45:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:45:36 - [DEBUG] Socket created
+2024-10-27 17:45:36 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:45:36 - [DEBUG] Socket created
+2024-10-27 17:45:36 - [DEBUG] Socket created
+2024-10-27 17:45:36 - [DEBUG] Socket options set
+2024-10-27 17:45:36 - [DEBUG] Binded to port 8090
+2024-10-27 17:45:36 - [DEBUG] Listening on port 8090
+2024-10-27 17:45:36 - [DEBUG] Socket created
+2024-10-27 17:45:36 - [DEBUG] Socket options set
+2024-10-27 17:45:36 - [DEBUG] Binded to port 8091
+2024-10-27 17:45:36 - [DEBUG] Listening on port 8091
+2024-10-27 17:45:36 - [DEBUG] Socket created
+2024-10-27 17:45:36 - [DEBUG] Socket options set
+2024-10-27 17:45:36 - [DEBUG] Binded to port 8092
+2024-10-27 17:45:36 - [DEBUG] Listening on port 8092
+2024-10-27 17:45:36 - [DEBUG] Socket created
+2024-10-27 17:45:36 - [DEBUG] Socket options set
+2024-10-27 17:45:36 - [DEBUG] Binded to port 8093
+2024-10-27 17:45:36 - [DEBUG] Listening on port 8093
+2024-10-27 17:45:46 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:45:46 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:46:03 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:46:03 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:46:10 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:46:10 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:47:13 - [INFO] Starting debug log...
+2024-10-27 17:47:13 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 17:47:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:47:13 - [DEBUG] Socket created
+2024-10-27 17:47:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:47:13 - [DEBUG] Socket created
+2024-10-27 17:47:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:47:13 - [DEBUG] Socket created
+2024-10-27 17:47:13 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:47:13 - [DEBUG] Socket created
+2024-10-27 17:47:13 - [DEBUG] Socket created
+2024-10-27 17:47:13 - [DEBUG] Socket options set
+2024-10-27 17:47:13 - [DEBUG] Binded to port 8090
+2024-10-27 17:47:13 - [DEBUG] Listening on port 8090
+2024-10-27 17:47:13 - [DEBUG] Socket created
+2024-10-27 17:47:13 - [DEBUG] Socket options set
+2024-10-27 17:47:13 - [DEBUG] Binded to port 8091
+2024-10-27 17:47:13 - [DEBUG] Listening on port 8091
+2024-10-27 17:47:13 - [DEBUG] Socket created
+2024-10-27 17:47:13 - [DEBUG] Socket options set
+2024-10-27 17:47:13 - [DEBUG] Binded to port 8092
+2024-10-27 17:47:13 - [DEBUG] Listening on port 8092
+2024-10-27 17:47:13 - [DEBUG] Socket created
+2024-10-27 17:47:13 - [DEBUG] Socket options set
+2024-10-27 17:47:13 - [DEBUG] Binded to port 8093
+2024-10-27 17:47:13 - [DEBUG] Listening on port 8093
+2024-10-27 17:53:35 - [INFO] Starting debug log...
+2024-10-27 17:53:35 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 17:53:35 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:53:35 - [DEBUG] Socket created
+2024-10-27 17:53:35 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:53:35 - [DEBUG] Socket created
+2024-10-27 17:53:35 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:53:35 - [DEBUG] Socket created
+2024-10-27 17:53:35 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:53:35 - [DEBUG] Socket created
+2024-10-27 17:53:35 - [DEBUG] Socket created
+2024-10-27 17:53:35 - [DEBUG] Socket options set
+2024-10-27 17:53:35 - [DEBUG] Binded to port 8090
+2024-10-27 17:53:35 - [DEBUG] Listening on port 8090
+2024-10-27 17:53:35 - [DEBUG] Socket created
+2024-10-27 17:53:35 - [DEBUG] Socket options set
+2024-10-27 17:53:35 - [DEBUG] Binded to port 8091
+2024-10-27 17:53:35 - [DEBUG] Listening on port 8091
+2024-10-27 17:53:35 - [DEBUG] Socket created
+2024-10-27 17:53:35 - [DEBUG] Socket options set
+2024-10-27 17:53:35 - [DEBUG] Binded to port 8092
+2024-10-27 17:53:35 - [DEBUG] Listening on port 8092
+2024-10-27 17:53:35 - [DEBUG] Socket created
+2024-10-27 17:53:35 - [DEBUG] Socket options set
+2024-10-27 17:53:35 - [DEBUG] Binded to port 8093
+2024-10-27 17:53:35 - [DEBUG] Listening on port 8093
+2024-10-27 17:53:39 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:54:01 - [INFO] Starting debug log...
+2024-10-27 17:54:01 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 17:54:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:54:01 - [DEBUG] Socket created
+2024-10-27 17:54:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:54:01 - [DEBUG] Socket created
+2024-10-27 17:54:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:54:01 - [DEBUG] Socket created
+2024-10-27 17:54:01 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:54:01 - [DEBUG] Socket created
+2024-10-27 17:54:01 - [DEBUG] Socket created
+2024-10-27 17:54:01 - [DEBUG] Socket options set
+2024-10-27 17:54:01 - [DEBUG] Binded to port 8090
+2024-10-27 17:54:01 - [DEBUG] Listening on port 8090
+2024-10-27 17:54:01 - [DEBUG] Socket created
+2024-10-27 17:54:01 - [DEBUG] Socket options set
+2024-10-27 17:54:01 - [DEBUG] Binded to port 8091
+2024-10-27 17:54:01 - [DEBUG] Listening on port 8091
+2024-10-27 17:54:01 - [DEBUG] Socket created
+2024-10-27 17:54:01 - [DEBUG] Socket options set
+2024-10-27 17:54:01 - [DEBUG] Binded to port 8092
+2024-10-27 17:54:01 - [DEBUG] Listening on port 8092
+2024-10-27 17:54:01 - [DEBUG] Socket created
+2024-10-27 17:54:01 - [DEBUG] Socket options set
+2024-10-27 17:54:01 - [DEBUG] Binded to port 8093
+2024-10-27 17:54:01 - [DEBUG] Listening on port 8093
+2024-10-27 17:54:03 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:57:58 - [INFO] Starting debug log...
+2024-10-27 17:57:58 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 17:57:58 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:57:58 - [DEBUG] Socket created
+2024-10-27 17:57:58 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:57:58 - [DEBUG] Socket created
+2024-10-27 17:57:58 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:57:58 - [DEBUG] Socket created
+2024-10-27 17:57:58 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:57:58 - [DEBUG] Socket created
+2024-10-27 17:57:58 - [DEBUG] Socket created
+2024-10-27 17:57:58 - [DEBUG] Socket options set
+2024-10-27 17:57:58 - [DEBUG] Binded to port 8090
+2024-10-27 17:57:58 - [DEBUG] Listening on port 8090
+2024-10-27 17:57:58 - [DEBUG] Socket created
+2024-10-27 17:57:58 - [DEBUG] Socket options set
+2024-10-27 17:57:58 - [DEBUG] Binded to port 8091
+2024-10-27 17:57:58 - [DEBUG] Listening on port 8091
+2024-10-27 17:57:58 - [DEBUG] Socket created
+2024-10-27 17:57:58 - [DEBUG] Socket options set
+2024-10-27 17:57:58 - [DEBUG] Binded to port 8092
+2024-10-27 17:57:58 - [DEBUG] Listening on port 8092
+2024-10-27 17:57:58 - [DEBUG] Socket created
+2024-10-27 17:57:58 - [DEBUG] Socket options set
+2024-10-27 17:57:58 - [DEBUG] Binded to port 8093
+2024-10-27 17:57:58 - [DEBUG] Listening on port 8093
+2024-10-27 17:58:00 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:58:00 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:58:05 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:58:05 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:58:11 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:58:11 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 17:58:42 - [INFO] Starting debug log...
+2024-10-27 17:58:42 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 17:58:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:58:42 - [DEBUG] Socket created
+2024-10-27 17:58:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:58:42 - [DEBUG] Socket created
+2024-10-27 17:58:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:58:42 - [DEBUG] Socket created
+2024-10-27 17:58:42 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 17:58:42 - [DEBUG] Socket created
+2024-10-27 17:58:42 - [DEBUG] Socket created
+2024-10-27 17:58:42 - [DEBUG] Socket options set
+2024-10-27 17:58:42 - [DEBUG] Binded to port 8090
+2024-10-27 17:58:42 - [DEBUG] Listening on port 8090
+2024-10-27 17:58:42 - [DEBUG] Socket created
+2024-10-27 17:58:42 - [DEBUG] Socket options set
+2024-10-27 17:58:42 - [DEBUG] Binded to port 8091
+2024-10-27 17:58:42 - [DEBUG] Listening on port 8091
+2024-10-27 17:58:42 - [DEBUG] Socket created
+2024-10-27 17:58:42 - [DEBUG] Socket options set
+2024-10-27 17:58:42 - [DEBUG] Binded to port 8092
+2024-10-27 17:58:42 - [DEBUG] Listening on port 8092
+2024-10-27 17:58:42 - [DEBUG] Socket created
+2024-10-27 17:58:42 - [DEBUG] Socket options set
+2024-10-27 17:58:42 - [DEBUG] Binded to port 8093
+2024-10-27 17:58:42 - [DEBUG] Listening on port 8093
+2024-10-27 18:01:04 - [INFO] Starting debug log...
+2024-10-27 18:01:04 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 18:01:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:01:04 - [DEBUG] Socket created
+2024-10-27 18:01:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:01:04 - [DEBUG] Socket created
+2024-10-27 18:01:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:01:04 - [DEBUG] Socket created
+2024-10-27 18:01:04 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:01:04 - [DEBUG] Socket created
+2024-10-27 18:01:04 - [DEBUG] Socket created
+2024-10-27 18:01:04 - [DEBUG] Socket options set
+2024-10-27 18:01:04 - [DEBUG] Binded to port 8090
+2024-10-27 18:01:04 - [DEBUG] Listening on port 8090
+2024-10-27 18:01:04 - [DEBUG] Socket created
+2024-10-27 18:01:04 - [DEBUG] Socket options set
+2024-10-27 18:01:04 - [DEBUG] Binded to port 8091
+2024-10-27 18:01:04 - [DEBUG] Listening on port 8091
+2024-10-27 18:01:04 - [DEBUG] Socket created
+2024-10-27 18:01:04 - [DEBUG] Socket options set
+2024-10-27 18:01:04 - [DEBUG] Binded to port 8092
+2024-10-27 18:01:04 - [DEBUG] Listening on port 8092
+2024-10-27 18:01:04 - [DEBUG] Socket created
+2024-10-27 18:01:04 - [DEBUG] Socket options set
+2024-10-27 18:01:04 - [DEBUG] Binded to port 8093
+2024-10-27 18:01:04 - [DEBUG] Listening on port 8093
+2024-10-27 18:01:06 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 18:01:12 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 18:02:29 - [INFO] Starting debug log...
+2024-10-27 18:02:29 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 18:02:29 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:02:29 - [DEBUG] Socket created
+2024-10-27 18:02:29 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:02:29 - [DEBUG] Socket created
+2024-10-27 18:02:29 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:02:29 - [DEBUG] Socket created
+2024-10-27 18:02:29 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:02:29 - [DEBUG] Socket created
+2024-10-27 18:02:29 - [DEBUG] Socket created
+2024-10-27 18:02:29 - [DEBUG] Socket options set
+2024-10-27 18:02:29 - [DEBUG] Binded to port 8090
+2024-10-27 18:02:29 - [DEBUG] Listening on port 8090
+2024-10-27 18:02:29 - [DEBUG] Socket created
+2024-10-27 18:02:29 - [DEBUG] Socket options set
+2024-10-27 18:02:29 - [DEBUG] Binded to port 8091
+2024-10-27 18:02:29 - [DEBUG] Listening on port 8091
+2024-10-27 18:02:29 - [DEBUG] Socket created
+2024-10-27 18:02:29 - [DEBUG] Socket options set
+2024-10-27 18:02:29 - [DEBUG] Binded to port 8092
+2024-10-27 18:02:29 - [DEBUG] Listening on port 8092
+2024-10-27 18:02:29 - [DEBUG] Socket created
+2024-10-27 18:02:29 - [DEBUG] Socket options set
+2024-10-27 18:02:29 - [DEBUG] Binded to port 8093
+2024-10-27 18:02:29 - [DEBUG] Listening on port 8093
+2024-10-27 18:29:56 - [INFO] Starting debug log...
+2024-10-27 18:29:56 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 18:29:56 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:29:56 - [DEBUG] Socket created
+2024-10-27 18:29:56 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:29:56 - [DEBUG] Socket created
+2024-10-27 18:29:56 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:29:56 - [DEBUG] Socket created
+2024-10-27 18:29:56 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:29:56 - [DEBUG] Socket created
+2024-10-27 18:29:56 - [DEBUG] Socket created
+2024-10-27 18:29:56 - [DEBUG] Socket options set
+2024-10-27 18:29:56 - [DEBUG] Binded to port 8090
+2024-10-27 18:29:56 - [DEBUG] Listening on port 8090
+2024-10-27 18:29:56 - [DEBUG] Socket created
+2024-10-27 18:29:56 - [DEBUG] Socket options set
+2024-10-27 18:29:56 - [DEBUG] Binded to port 8091
+2024-10-27 18:29:56 - [DEBUG] Listening on port 8091
+2024-10-27 18:29:56 - [DEBUG] Socket created
+2024-10-27 18:29:56 - [DEBUG] Socket options set
+2024-10-27 18:29:56 - [DEBUG] Binded to port 8092
+2024-10-27 18:29:56 - [DEBUG] Listening on port 8092
+2024-10-27 18:29:56 - [DEBUG] Socket created
+2024-10-27 18:29:56 - [DEBUG] Socket options set
+2024-10-27 18:29:56 - [DEBUG] Binded to port 8093
+2024-10-27 18:29:56 - [DEBUG] Listening on port 8093
+2024-10-27 18:29:58 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 18:31:08 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 18:32:41 - [INFO] Starting debug log...
+2024-10-27 18:32:41 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 18:32:41 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:32:41 - [DEBUG] Socket created
+2024-10-27 18:32:41 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:32:41 - [DEBUG] Socket created
+2024-10-27 18:32:41 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:32:41 - [DEBUG] Socket created
+2024-10-27 18:32:41 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:32:41 - [DEBUG] Socket created
+2024-10-27 18:32:41 - [DEBUG] Socket created
+2024-10-27 18:32:41 - [DEBUG] Socket options set
+2024-10-27 18:32:41 - [DEBUG] Binded to port 8090
+2024-10-27 18:32:41 - [DEBUG] Listening on port 8090
+2024-10-27 18:32:41 - [DEBUG] Socket created
+2024-10-27 18:32:41 - [DEBUG] Socket options set
+2024-10-27 18:32:41 - [DEBUG] Binded to port 8091
+2024-10-27 18:32:41 - [DEBUG] Listening on port 8091
+2024-10-27 18:32:41 - [DEBUG] Socket created
+2024-10-27 18:32:41 - [DEBUG] Socket options set
+2024-10-27 18:32:41 - [DEBUG] Binded to port 8092
+2024-10-27 18:32:41 - [DEBUG] Listening on port 8092
+2024-10-27 18:32:41 - [DEBUG] Socket created
+2024-10-27 18:32:41 - [DEBUG] Socket options set
+2024-10-27 18:32:41 - [DEBUG] Binded to port 8093
+2024-10-27 18:32:41 - [DEBUG] Listening on port 8093
+2024-10-27 18:32:43 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 18:36:31 - [INFO] Starting debug log...
+2024-10-27 18:36:31 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 18:36:31 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:36:31 - [DEBUG] Socket created
+2024-10-27 18:36:31 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:36:31 - [DEBUG] Socket created
+2024-10-27 18:36:31 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:36:31 - [DEBUG] Socket created
+2024-10-27 18:36:31 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:36:31 - [DEBUG] Socket created
+2024-10-27 18:36:31 - [DEBUG] Socket created
+2024-10-27 18:36:31 - [DEBUG] Socket options set
+2024-10-27 18:36:31 - [DEBUG] Binded to port 8090
+2024-10-27 18:36:31 - [DEBUG] Listening on port 8090
+2024-10-27 18:36:31 - [DEBUG] Socket created
+2024-10-27 18:36:31 - [DEBUG] Socket options set
+2024-10-27 18:36:31 - [DEBUG] Binded to port 8091
+2024-10-27 18:36:31 - [DEBUG] Listening on port 8091
+2024-10-27 18:36:31 - [DEBUG] Socket created
+2024-10-27 18:36:31 - [DEBUG] Socket options set
+2024-10-27 18:36:31 - [DEBUG] Binded to port 8092
+2024-10-27 18:36:31 - [DEBUG] Listening on port 8092
+2024-10-27 18:36:31 - [DEBUG] Socket created
+2024-10-27 18:36:31 - [DEBUG] Socket options set
+2024-10-27 18:36:31 - [DEBUG] Binded to port 8093
+2024-10-27 18:36:31 - [DEBUG] Listening on port 8093
+2024-10-27 18:37:55 - [INFO] Starting debug log...
+2024-10-27 18:37:55 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 18:37:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:37:55 - [DEBUG] Socket created
+2024-10-27 18:37:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:37:55 - [DEBUG] Socket created
+2024-10-27 18:37:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:37:55 - [DEBUG] Socket created
+2024-10-27 18:37:55 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:37:55 - [DEBUG] Socket created
+2024-10-27 18:37:55 - [DEBUG] Socket created
+2024-10-27 18:37:55 - [DEBUG] Socket options set
+2024-10-27 18:37:55 - [DEBUG] Binded to port 8090
+2024-10-27 18:37:55 - [DEBUG] Listening on port 8090
+2024-10-27 18:37:55 - [DEBUG] Socket created
+2024-10-27 18:37:55 - [DEBUG] Socket options set
+2024-10-27 18:37:55 - [DEBUG] Binded to port 8091
+2024-10-27 18:37:55 - [DEBUG] Listening on port 8091
+2024-10-27 18:37:55 - [DEBUG] Socket created
+2024-10-27 18:37:55 - [DEBUG] Socket options set
+2024-10-27 18:37:55 - [DEBUG] Binded to port 8092
+2024-10-27 18:37:55 - [DEBUG] Listening on port 8092
+2024-10-27 18:37:55 - [DEBUG] Socket created
+2024-10-27 18:37:55 - [DEBUG] Socket options set
+2024-10-27 18:37:55 - [DEBUG] Binded to port 8093
+2024-10-27 18:37:55 - [DEBUG] Listening on port 8093
+2024-10-27 18:37:57 - [INFO] Response body: @import 'https://fonts.googleapis.com/css?family=VT323';
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+a {
+  color: #e0e2f4;
+}
+
+body,
+p {
+  font: normal 20px/1.25rem "VT323", monospace;
+}
+
+h1 {
+  font: normal 2.75rem/1.05em "VT323", monospace;
+}
+
+h2 {
+  font: normal 2.25rem/1.25em "VT323", monospace;
+}
+
+h3 {
+  font: lighter 1.5rem/1.25em "VT323", monospace;
+}
+
+h4 {
+  font: lighter 1.125rem/1.2222222em "VT323", monospace;
+}
+
+body {
+  background: #0414a7;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  max-width: 640px;
+}
+
+.bsod {
+  padding-top: 10%;
+}
+.bsod .neg {
+  text-align: center;
+  color: #0414a7;
+}
+.bsod .neg .bg {
+  background: #aaaaaa;
+  padding: 0 15px 2px 13px;
+}
+.bsod .title {
+  margin-bottom: 50px;
+}
+.bsod .nav {
+  margin-top: 35px;
+  text-align: center;
+}
+.bsod .nav .link {
+  text-decoration: none;
+  padding: 0 9px 2px 8px;
+}
+.bsod .nav .link:hover, .bsod .nav .link:focus {
+  background: #aaaaaa;
+  color: #0414a7;
+}
+2024-10-27 18:39:22 - [INFO] Starting debug log...
+2024-10-27 18:39:22 - [DEBUG] Starting to parse config/testServer.conf
+2024-10-27 18:39:22 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:39:22 - [DEBUG] Socket created
+2024-10-27 18:39:22 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:39:22 - [DEBUG] Socket created
+2024-10-27 18:39:22 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:39:22 - [DEBUG] Socket created
+2024-10-27 18:39:22 - [DEBUG] Successfully converted IP to binary format: 127.0.0.1
+2024-10-27 18:39:22 - [DEBUG] Socket created
+2024-10-27 18:39:22 - [DEBUG] Socket created
+2024-10-27 18:39:22 - [DEBUG] Socket options set
+2024-10-27 18:39:22 - [DEBUG] Binded to port 8090
+2024-10-27 18:39:22 - [DEBUG] Listening on port 8090
+2024-10-27 18:39:22 - [DEBUG] Socket created
+2024-10-27 18:39:22 - [DEBUG] Socket options set
+2024-10-27 18:39:22 - [DEBUG] Binded to port 8091
+2024-10-27 18:39:22 - [DEBUG] Listening on port 8091
+2024-10-27 18:39:22 - [DEBUG] Socket created
+2024-10-27 18:39:22 - [DEBUG] Socket options set
+2024-10-27 18:39:22 - [DEBUG] Binded to port 8092
+2024-10-27 18:39:22 - [DEBUG] Listening on port 8092
+2024-10-27 18:39:22 - [DEBUG] Socket created
+2024-10-27 18:39:22 - [DEBUG] Socket options set
+2024-10-27 18:39:22 - [DEBUG] Binded to port 8093
+2024-10-27 18:39:22 - [DEBUG] Listening on port 8093
+2024-10-27 18:39:24 - [INFO] Response body: <!-- pagina de exemplo -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Olá Mundo</h1>
+	<p>Este é um exemplo de página estática</p>
+	<p>Para acessar a página de arquivos, <a href="/f">clique aqui</a></p>
+	<p>Para acessar a página calculadora, <a href="CGIcalculator.html">clique aqui</a></p>
+	<p>Para acessar a página de upload, <a href="CGIupload.html">clique aqui</a></p>
+	<p>Para acessar a página de formulário, <a href="CGIform.html">clique aqui</a></p>
+	<p>Para acessar a página de erro, <a href="errors/404.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 403, <a href="errors/403.html">clique aqui</a></p>
+	<p>Para acessar a página de erro 405, <a href="errors/405.html">clique aqui</a></p>
+	<h1>My Video</h1>
+	<!-- <video width="640" height="360" controls>
+		<source src="img/video.mp4" type="video/mp4">
+	</video> -->
+</body>
+</html>
+
+2024-10-27 18:39:26 - [INFO] Response body: @import 'https://fonts.googleapis.com/css?family=VT323';
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+a {
+  color: #e0e2f4;
+}
+
+body,
+p {
+  font: normal 20px/1.25rem "VT323", monospace;
+}
+
+h1 {
+  font: normal 2.75rem/1.05em "VT323", monospace;
+}
+
+h2 {
+  font: normal 2.25rem/1.25em "VT323", monospace;
+}
+
+h3 {
+  font: lighter 1.5rem/1.25em "VT323", monospace;
+}
+
+h4 {
+  font: lighter 1.125rem/1.2222222em "VT323", monospace;
+}
+
+body {
+  background: #0414a7;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  max-width: 640px;
+}
+
+.bsod {
+  padding-top: 10%;
+}
+.bsod .neg {
+  text-align: center;
+  color: #0414a7;
+}
+.bsod .neg .bg {
+  background: #aaaaaa;
+  padding: 0 15px 2px 13px;
+}
+.bsod .title {
+  margin-bottom: 50px;
+}
+.bsod .nav {
+  margin-top: 35px;
+  text-align: center;
+}
+.bsod .nav .link {
+  text-decoration: none;
+  padding: 0 9px 2px 8px;
+}
+.bsod .nav .link:hover, .bsod .nav .link:focus {
+  background: #aaaaaa;
+  color: #0414a7;
+}

@@ -272,9 +272,10 @@ const LocationConfigs Config::getLocationConfig( const ServerConfigs &serverConf
 	const std::string &uri, bool &locationFound ) const {
 	LocationConfigs bestMatch;
 	size_t bestMatchLength = 0;
-
-	std::string formatUri = removeLastSlashes(uri);
-	for (std::vector<LocationConfigs>::const_iterator it = serverConfig.locations.begin(); 
+	std::string formatUri = uri;
+	if(uri != "/")
+		formatUri = removeLastSlashes(uri);
+	for (std::vector<LocationConfigs>::const_iterator it = serverConfig.locations.begin();
 		it != serverConfig.locations.end(); ++it) {
 		if (formatUri == it->locationPath && it->locationPath.length() > bestMatchLength) {
 			bestMatch = *it;

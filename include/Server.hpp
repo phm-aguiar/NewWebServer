@@ -17,8 +17,8 @@ public:
 	Server(ServerConfigs &config, Logger &logger, EpollManager &epoll);
 	~Server();
 	bool initialize();
-	void run();
 	int getServerSocket() const { return _serverSocket; }
+	ServerConfigs &getConfig() { return _config; }
 
 private:
 	// Métodos de manipulação de sockets e conexões
@@ -27,8 +27,6 @@ private:
 	bool bindSocket();
 	bool listenSocket();
 	bool logErrorAndClose(const std::string &message);
-	std::string inetNtop(uint32_t binary_ip);  // Converte IP binário para string
-	bool inetPton(const std::string &ip_str);  // Valida IP
 
 	// Atributos privados
 	int _serverSocket;	   // Socket principal do servidor

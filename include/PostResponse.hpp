@@ -12,7 +12,7 @@ class PostResponse : public Response {
     public:
         PostResponse(int clientSocket, Logger &logger, const std::string &postData);
 
-        void prepareResponse();
+        std::string prepareResponse();
         void sendResponse();
 };
 

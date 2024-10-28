@@ -4,8 +4,8 @@
 
 ServerManager::ServerManager(const std::string &configFilePath)
 	: _logger(new Logger(LOG_FILE, LOG_ACCESS_FILE, LOG_ERROR_FILE)),
-	  _config(configFilePath, *_logger),
-	  _epollManager(*_logger)
+	  _epollManager(*_logger),			// Mudei a ordem aqui
+	  _config(configFilePath, *_logger) // E aqui
 {
 	if (!initializeServers())
 	{
@@ -64,6 +64,7 @@ void ServerManager::acceptConnection(int serverSocket)
 	}
 	_epollManager.addToEpoll(clientSocket, EPOLLIN);
 	_requestMap[clientSocket] = "";
+	_clientServerMap[clientSocket] = serverSocket;
 	// _fds.addFdToServer(clientSocket);
 }
 
@@ -78,12 +79,12 @@ void ServerManager::handleEvents()
 	}
 	for (int i = 0; i < nfds; i++)
 	{
-		std::cout << "Event received on fd: " << events[i].data.fd << std::endl;
+		// std::cout << "Event received on fd: " << events[i].data.fd << std::endl;
 		if (_fds.isFdInServer(events[i].data.fd))
 		{
 			if (events[i].events & EPOLLIN)
 			{
-				std::cout << "EPOLLIN event on server socket: " << events[i].data.fd << std::endl;
+				// std::cout << "EPOLLIN event on server socket: " << events[i].data.fd << std::endl;
 				acceptConnection(events[i].data.fd);
 			}
 		}
@@ -91,12 +92,12 @@ void ServerManager::handleEvents()
 		{
 			if (events[i].events & EPOLLIN)
 			{
-				std::cout << "EPOLLIN event on client socket: " << events[i].data.fd << std::endl;
+				// std::cout << "EPOLLIN event on client socket: " << events[i].data.fd << std::endl;
 				handleRead(events[i].data.fd);
 			}
 			if (events[i].events & EPOLLOUT)
 			{
-				std::cout << "EPOLLOUT event on client socket: " << events[i].data.fd << std::endl;
+				// std::cout << "EPOLLOUT event on client socket: " << events[i].data.fd << std::endl;
 				handleWrite(events[i].data.fd);
 			}
 		}
@@ -130,29 +131,100 @@ void ServerManager::handleRead(int clientSocket)
 			lenfVerif[lenfVerif.size() - 1] = '\0';
 			_epollManager.modifyEpoll(clientSocket, EPOLLOUT);
 			_requestMap[clientSocket] += lenfVerif;
-
 		}
 	}
 
 	std::cout << "debbug 02" << std::endl;
 	_requestMap[clientSocket] += std::string(buffer, bytesRead);
 	// std::cout << "Received data: " << std::string(buffer, bytesRead) << std::endl;
+	std::cout << "read: success" << std::endl;
+}
+
+void ServerManager::handleError(int clientSocket, Logger *logger, const std::string &errorPage, const std::string &status)
+{
+	std::string response = "HTTP/1.1 " + status + " " + errorPage + "\r\n";
+	std::stringstream ss;
+	std::string body = readFile(errorPage);
+	ss << body.size();
+	response += "Content-Length: " + ss.str() + "\r\n";
+	response += "Content-Type: text/html\r\n\r\n";
+	response += body;
+	int bytesWritten = send(clientSocket, response.c_str(), response.size(), 0);
+	if (bytesWritten <= 0)
+	{
+		_epollManager.modifyEpoll(clientSocket, EPOLLIN);
+		logger->logError(LOG_ERROR, "Error sending error response", true);
+		// _fds.removeFdFromServer(clientSocket);
+		return;
+	}
+	_epollManager.modifyEpoll(clientSocket, EPOLLIN);
+}
+void ServerManager::handleResponse(Request &request, ServerConfigs &server, int clientSocket)
+{
+	std::string status = request.validateRequest(_config, server);
+	std::cout << "debbug 03 [" << status << "]" << std::endl;
+	if (status != "")
+	{
+		handleError(clientSocket, _logger, server.errorPages[status], status);
+		return;
+	}
+	if (request.isCGI())
+	{
+		// CGIResponse cgiResponse(clientSocket, *_logger, request, server);
+		// cgiResponse.prepareResponse();
+		// cgiResponse.sendResponse();
+		send(clientSocket, "CGI not implemented", 19, 0);
+		_epollManager.modifyEpoll(clientSocket, EPOLLIN);
+	}
+
+	switch (request.getMethod())
+	{
+	case GET:
+	{
+		std::cout << "entrou no get" << std::endl;
+		GetResponse getResponse(clientSocket, _logger, request.getUri());
+		getResponse.prepareResponse(request.getLocation(), server);
+		getResponse.sendResponse();
+		_epollManager.modifyEpoll(clientSocket, EPOLLIN);
+		break;
+	}
+	case POST:
+	{
+		// PostResponse postResponse(clientSocket, *_logger, request.getUri());
+		// postResponse.prepareResponse();
+		// postResponse.sendResponse();
+		break;
+	}
+	case DELETE:
+	{
+		// DeleteResponse deleteResponse(clientSocket, *_logger, request.getUri());
+		// deleteResponse.prepareResponse();
+		// deleteResponse.sendResponse();
+		break;
+	}
+	default:
+		break;
+	}
 }
 
 void ServerManager::handleWrite(int clientSocket)
 {
 	Request request(_requestMap[clientSocket]);
-	std::cout << "Handling write on socket: " << clientSocket << std::endl;
-	std::string header = "HTTP/1.1 200 OK\r\nContent-Type: text/html\r\nContent-Length: 38\r\n\r\n";
-
-	std::string body = "<html><body><h1>Hello, World!</h1></body></html>";
-	std::string response = header + body;
-
-	int bytesWritten = send(clientSocket, response.c_str(), response.size(), 0);
-	if (bytesWritten <= 0)
+	for (std::vector<Server *>::iterator it = _servers.begin(); it != _servers.end(); ++it)
 	{
-		_epollManager.modifyEpoll(clientSocket, EPOLLIN);
-		// _fds.removeFdFromServer(clientSocket);
-		return;
+		if ((*it)->getServerSocket() == _clientServerMap[clientSocket])
+		{
+			handleResponse(request, (*it)->getConfig(), clientSocket);
+			_requestMap[clientSocket] = "";
+			break;
+		}
 	}
+
+	// int bytesWritten = send(clientSocket, response.c_str(), response.size(), 0);
+	// if (bytesWritten <= 0)
+	// {
+	// 	_epollManager.modifyEpoll(clientSocket, EPOLLIN);
+	// 	// _fds.removeFdFromServer(clientSocket);
+	// 	return;
+	// }
 }

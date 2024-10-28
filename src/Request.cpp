@@ -3,6 +3,7 @@
 Request::Request(const std::string &rawRequest) : _rawRequest(rawRequest)
 {
 	_method = INVALID;
+	_isCGI = false;
 	parseRequest();
 }
 
@@ -104,5 +105,55 @@ httpMethod Request::parseMethod(const std::string &method)
 		return DELETE;
 	}
 	return INVALID;
+}
+
+std::string Request::folderPath()
+{
+	if (_uri == "/")
+		return _uri;
+	std::string folderPath = _uri;
+	if (folderPath[folderPath.size() - 1] == '/')
+	{
+		folderPath = folderPath.substr(0, folderPath.size() - 1);
+	}
+	size_t pos = folderPath.find_last_of('/');
+	if (pos != std::string::npos)
+	{
+		folderPath = folderPath.substr(0, pos);
+	}
+	return folderPath;
+}
+
+std::string Request::validateRequest(Config _config, ServerConfigs server)
+{
+	static int counter = 0;
+	std::string error = "";
+	bool locationFound = false;
+	std::cout << "passou aki " << counter++ << std::endl;
+	std::cout << _uri << std::endl;
+	std::cout << folderPath() << std::endl;
+	_location = _config.getLocationConfig(server, folderPath(), locationFound);
+	if (!locationFound)
+	{
+		error = "404";
+	}
+	if (std::find(_location.methods.begin(), _location.methods.end(), getMethod()) == _location.methods.end())
+	{
+		error = "405";
+	}
+	if (_location.cgiEnabled)
+	{
+		_isCGI = true;
+	}
+	return error;
+}
+
+void Request::clear()
+{
+	_method = INVALID;
+	_uri.clear();
+	_headers.clear();
+	_body.clear();
+	_rawRequest.clear();
 }
 
