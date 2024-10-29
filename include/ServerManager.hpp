@@ -23,6 +23,7 @@ private:
 	void acceptConnection(int serverSocket);
 	void handleResponse(Request &request, ServerConfigs &server, int clientSocket);
 	void handleError(int clientSocket, Logger *logger, const std::string &errorPage, const std::string &status);
+	void closeConnection(int clientSocket);
 
 	Logger *_logger;
 	EpollManager _epollManager;
@@ -30,7 +31,11 @@ private:
 	Fds _fds;
 	std::vector<Server*> _servers;
 	std::map<int, std::string> _requestMap;
+	std::map<int, std::string> _responseMap;
+	std::map<int, bool> _connectionMap; 
 	std::map<int, int> _clientServerMap;
+	// quero dizer ao request que esse arquivo tem boundary
+	std::map<int, bool> _boundaryMap;
 };
 
 #endif // SERVERMANAGER_HPP

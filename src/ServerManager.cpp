@@ -4,8 +4,8 @@
 
 ServerManager::ServerManager(const std::string &configFilePath)
 	: _logger(new Logger(LOG_FILE, LOG_ACCESS_FILE, LOG_ERROR_FILE)),
-	  _epollManager(*_logger),			// Mudei a ordem aqui
-	  _config(configFilePath, *_logger) // E aqui
+	  _epollManager(*_logger),
+	  _config(configFilePath, *_logger)
 {
 	if (!initializeServers())
 	{
@@ -64,7 +64,10 @@ void ServerManager::acceptConnection(int serverSocket)
 	}
 	_epollManager.addToEpoll(clientSocket, EPOLLIN);
 	_requestMap[clientSocket] = "";
+	_responseMap[clientSocket] = "";
 	_clientServerMap[clientSocket] = serverSocket;
+	_connectionMap[clientSocket] = true;
+	_boundaryMap[clientSocket] = false;
 	// _fds.addFdToServer(clientSocket);
 }
 
@@ -106,11 +109,12 @@ void ServerManager::handleEvents()
 
 void ServerManager::handleRead(int clientSocket)
 {
+	static int counter = 0;
 	std::cout << "Handling read on socket: " << clientSocket << std::endl;
 	char buffer[65535];
 	bzero(buffer, sizeof(buffer));
 	int bytesRead = recv(clientSocket, buffer, sizeof(buffer), 0);
-
+	std::cout << "loop numero: " << counter++ << std::endl;
 	if (bytesRead == -1)
 	{
 		_epollManager.removeFromEpoll(clientSocket);
@@ -129,8 +133,15 @@ void ServerManager::handleRead(int clientSocket)
 		if (lenfVerif.size() < 65535)
 		{
 			lenfVerif[lenfVerif.size() - 1] = '\0';
+			if (lenfVerif.find("boundary=") != std::string::npos)
+			{
+				std::cout << "achei o boundary" << std::endl;
+				_boundaryMap[clientSocket] = true;
+			}
 			_epollManager.modifyEpoll(clientSocket, EPOLLOUT);
 			_requestMap[clientSocket] += lenfVerif;
+			std::cout << "entrei nesse if: " << lenfVerif.size() << std::endl;
+			return;
 		}
 	}
 
@@ -149,20 +160,13 @@ void ServerManager::handleError(int clientSocket, Logger *logger, const std::str
 	response += "Content-Length: " + ss.str() + "\r\n";
 	response += "Content-Type: text/html\r\n\r\n";
 	response += body;
-	int bytesWritten = send(clientSocket, response.c_str(), response.size(), 0);
-	if (bytesWritten <= 0)
-	{
-		_epollManager.modifyEpoll(clientSocket, EPOLLIN);
-		logger->logError(LOG_ERROR, "Error sending error response", true);
-		// _fds.removeFdFromServer(clientSocket);
-		return;
-	}
-	_epollManager.modifyEpoll(clientSocket, EPOLLIN);
+	_responseMap[clientSocket] = response;
+	logger->logError(LOG_ERROR, "Error: " + status, true);	
 }
 void ServerManager::handleResponse(Request &request, ServerConfigs &server, int clientSocket)
 {
 	std::string status = request.validateRequest(_config, server);
-	std::cout << "debbug 03 [" << status << "]" << std::endl;
+	std::cout << "vazio é o normal [" << status << "]" << std::endl;
 	if (status != "")
 	{
 		handleError(clientSocket, _logger, server.errorPages[status], status);
@@ -173,8 +177,8 @@ void ServerManager::handleResponse(Request &request, ServerConfigs &server, int 
 		// CGIResponse cgiResponse(clientSocket, *_logger, request, server);
 		// cgiResponse.prepareResponse();
 		// cgiResponse.sendResponse();
-		send(clientSocket, "CGI not implemented", 19, 0);
-		_epollManager.modifyEpoll(clientSocket, EPOLLIN);
+		handleError(clientSocket, _logger, server.errorPages["999"], "999");
+		return;
 	}
 
 	switch (request.getMethod())
@@ -184,8 +188,7 @@ void ServerManager::handleResponse(Request &request, ServerConfigs &server, int 
 		std::cout << "entrou no get" << std::endl;
 		GetResponse getResponse(clientSocket, _logger, request.getUri());
 		getResponse.prepareResponse(request.getLocation(), server);
-		getResponse.sendResponse();
-		_epollManager.modifyEpoll(clientSocket, EPOLLIN);
+		_responseMap[clientSocket] = getResponse.generateResponse();
 		break;
 	}
 	case POST:
@@ -193,6 +196,7 @@ void ServerManager::handleResponse(Request &request, ServerConfigs &server, int 
 		// PostResponse postResponse(clientSocket, *_logger, request.getUri());
 		// postResponse.prepareResponse();
 		// postResponse.sendResponse();
+		handleError(clientSocket, _logger, server.errorPages["999"], "999");
 		break;
 	}
 	case DELETE:
@@ -207,24 +211,57 @@ void ServerManager::handleResponse(Request &request, ServerConfigs &server, int 
 	}
 }
 
+void ServerManager::closeConnection(int clientSocket)
+{
+	_epollManager.removeFromEpoll(clientSocket);
+	_requestMap.erase(clientSocket);
+	_responseMap.erase(clientSocket);
+	close(clientSocket);
+}
+
 void ServerManager::handleWrite(int clientSocket)
 {
-	Request request(_requestMap[clientSocket]);
-	for (std::vector<Server *>::iterator it = _servers.begin(); it != _servers.end(); ++it)
+	if (_responseMap[clientSocket] == "")
 	{
-		if ((*it)->getServerSocket() == _clientServerMap[clientSocket])
+		if (_boundaryMap[clientSocket]){
+			std::cout << "entrei no boundary" << std::endl;
+			_epollManager.modifyEpoll(clientSocket, EPOLLIN);
+			_boundaryMap[clientSocket] = false;
+			return;
+		}
+		Request request(_requestMap[clientSocket]);
+		for (std::vector<Server *>::iterator it = _servers.begin(); it != _servers.end(); ++it)
 		{
-			handleResponse(request, (*it)->getConfig(), clientSocket);
-			_requestMap[clientSocket] = "";
-			break;
+			if ((*it)->getServerSocket() == _clientServerMap[clientSocket])
+			{
+				handleResponse(request, (*it)->getConfig(), clientSocket);
+				_requestMap[clientSocket] = "";
+				_connectionMap[clientSocket] = request.connectionClose();
+				break;
+			}
 		}
 	}
-
-	// int bytesWritten = send(clientSocket, response.c_str(), response.size(), 0);
-	// if (bytesWritten <= 0)
-	// {
-	// 	_epollManager.modifyEpoll(clientSocket, EPOLLIN);
-	// 	// _fds.removeFdFromServer(clientSocket);
-	// 	return;
-	// }
+	else{
+		int bytesWritten = send(clientSocket, _responseMap[clientSocket].c_str(), _responseMap[clientSocket].size(), 0);
+		if (bytesWritten <= 0)
+		{
+			_epollManager.removeFromEpoll(clientSocket);
+			close(clientSocket);
+			return;
+		}
+		else if (bytesWritten < (int)_responseMap[clientSocket].size())
+		{
+			_responseMap[clientSocket] = _responseMap[clientSocket].substr(bytesWritten);
+		}
+		else if (bytesWritten == (int)_responseMap[clientSocket].size())
+		{
+			_responseMap[clientSocket] = "";
+			if (_connectionMap[clientSocket])
+			{
+				closeConnection(clientSocket);
+				return;
+			}
+			_epollManager.modifyEpoll(clientSocket, EPOLLIN);
+		}
+	}
 }

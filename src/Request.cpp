@@ -1,9 +1,13 @@
 #include "Request.hpp"
+#include "Utils.hpp"
+#include "Includes.hpp"
 
 Request::Request(const std::string &rawRequest) : _rawRequest(rawRequest)
 {
 	_method = INVALID;
 	_isCGI = false;
+	_connectionClose = false;
+	std::cout << YELLOW << "rawRequest: " << _rawRequest << RESET << std::endl;
 	parseRequest();
 }
 
@@ -57,6 +61,7 @@ void Request::parseRequest()
 		}
 	}
 	parseHeaders(headerLines);
+	parseBody(_body);
 }
 
 void Request::parseMethodAndUri(const std::string &line)
@@ -68,7 +73,13 @@ void Request::parseMethodAndUri(const std::string &line)
 	lineStream >> method >> uri;
 
 	_method = parseMethod(method);
-	_uri = uri;
+	if (uri == "/")
+	{
+		_uri = uri;
+	}
+	else{
+		_uri = removeLastSlashes(uri);
+	}
 }
 
 void Request::parseHeaders(const std::vector<std::string> &headerLines)
@@ -87,7 +98,22 @@ void Request::parseHeaders(const std::vector<std::string> &headerLines)
 
 void Request::parseBody(const std::string &body)
 {
-	_body = body;
+	(void)body;
+	// if(body.find("Content-Type") != std::string::npos)
+	// {
+	// 	std::cout << MAGENTA << "body: " << body << RESET << std::endl;
+	// 	std::stringstream ss(body);
+	// 	std::string separator;
+	// 	std::string firstLine;
+	// 	std::string secondeLine;
+	// 	ss >> separator >> firstLine >> secondeLine;
+	// 	std::cout << RED << separator <<RESET << std::endl;
+	// 	std::cout << RED <<firstLine <<RESET << std::endl;
+	// 	std::cout << RED <<secondeLine <<RESET << std::endl;
+	// 	std::cout << BLUE << _body << RESET <<std::endl;
+	// 	return;
+	// }
+	// _body = body;
 }
 
 httpMethod Request::parseMethod(const std::string &method)
@@ -107,11 +133,38 @@ httpMethod Request::parseMethod(const std::string &method)
 	return INVALID;
 }
 
+bool counterOneSlash(const std::string &uri)
+{
+	int counter = 0;
+	for (size_t i = 0; i < uri.size(); i++)
+	{
+		if (uri[i] == '/')
+		{
+			counter++;
+		}
+	}
+	if (counter == 1 && uri[0] == '/')
+	{
+		return true;
+	}
+	return false;
+
+}
+
 std::string Request::folderPath()
 {
 	if (_uri == "/")
 		return _uri;
 	std::string folderPath = _uri;
+	if (counterOneSlash(folderPath))
+	{
+		folderPath = "/";
+		return folderPath;
+	}
+	if (isDirectory(folderPath) && folderPath[folderPath.size() - 1] != '/')
+	{
+		folderPath += "/";
+	}
 	if (folderPath[folderPath.size() - 1] == '/')
 	{
 		folderPath = folderPath.substr(0, folderPath.size() - 1);
@@ -130,8 +183,9 @@ std::string Request::validateRequest(Config _config, ServerConfigs server)
 	std::string error = "";
 	bool locationFound = false;
 	std::cout << "passou aki " << counter++ << std::endl;
-	std::cout << _uri << std::endl;
-	std::cout << folderPath() << std::endl;
+	std::cout << GREEN << _uri << RESET << std::endl;
+	std::cout << MAGENTA << folderPath() << RESET << std::endl;
+	std::cout << YELLOW << _method << RESET << std::endl;
 	_location = _config.getLocationConfig(server, folderPath(), locationFound);
 	if (!locationFound)
 	{
@@ -148,12 +202,12 @@ std::string Request::validateRequest(Config _config, ServerConfigs server)
 	return error;
 }
 
-void Request::clear()
+void Request::checkConnectionClose()
 {
-	_method = INVALID;
-	_uri.clear();
-	_headers.clear();
-	_body.clear();
-	_rawRequest.clear();
+	std::map<std::string, std::string>::const_iterator it = _headers.find("Connection");
+	if (it != _headers.end() && it->second == "close")
+	{
+		_connectionClose = true;
+	}
 }
 

@@ -19,9 +19,6 @@ void GetResponse::prepareResponse(const LocationConfigs &location, const ServerC
 	std::cout << RED << "[" <<_filePath << "]"<< RESET << std::endl;
 	_filePath = location.root + _filePath;
 	std::cout << _filePath << std::endl;
-	_filePath = removeLastSlashes(_filePath);
-	if (isDirectory(_filePath) && _filePath[_filePath.size() - 1] != '/')
-		_filePath += "/";
 	if (_filePath[_filePath.size() - 1] == '/' && !location.autoindex)
 	{
 		std::cout << "debbug response 4" << std::endl;
@@ -46,9 +43,4 @@ void GetResponse::prepareResponse(const LocationConfigs &location, const ServerC
 	}
 	std::cout << "debbug response 8" << std::endl;
 	handleFileResponse(_filePath, _logger);
-}
-
-void GetResponse::sendResponse(){
-	std::string response = generateResponse();
-	send(_clientSocket, response.c_str(), response.size(), 0);
 }

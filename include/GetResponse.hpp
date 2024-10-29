@@ -7,14 +7,12 @@
 class GetResponse : public Response {
 	private:
 		std::string _filePath;
-		std::string _responseData;
 		std::map<std::string, std::string> _headers;
 
 	public:
 		GetResponse(int clientSocket, Logger *logger, std::string filePath);
 		void listDirectoryHandler();
 		void prepareResponse(const LocationConfigs &location, const ServerConfigs &respconfig);
-		void sendResponse();
 };
 
 #endif // GETRESPONSE_HPP

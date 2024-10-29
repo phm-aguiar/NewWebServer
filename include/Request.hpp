@@ -13,8 +13,10 @@ private:
 	std::map<std::string, std::string> _headers; // Cabeçalhos HTTP
 	std::string _body;							 // Corpo da requisição, se houver
 	std::string _rawRequest;					 // Requisição bruta para parseamento
-	bool _isCGI;
-	LocationConfigs _location;
+	bool _isCGI;								 // Indica se a requisição é para um script CGI
+	LocationConfigs _location;					 // Configurações da localização
+	bool _connectionClose;						 // Indica se a conexão deve ser fechada
+	std::string _fileDescription;
 public:
 	// Construtor que recebe a requisição bruta
 	Request(const std::string &rawRequest);
@@ -28,7 +30,7 @@ public:
 	bool isCGI() const { return _isCGI; }						  // Retorna se a requisição é para um script CGI
 	LocationConfigs getLocation() const { return _location; }
 	std::string validateRequest(Config _config, ServerConfigs server);
-	void clear();									   // Limpa os dados da requisição
+	bool connectionClose() const { return _connectionClose; }
 private:
 	// Método privado para fazer o parsing da requisição
 	void parseRequest();
@@ -36,9 +38,11 @@ private:
 	void parseHeaders(const std::vector<std::string> &headerLines); // Extrai os cabeçalhos
 	void parseBody(const std::string &body);						// Extrai o corpo da requisição, se houver
 	std::string folderPath();										// Retorna o caminho do diretório da URI
+	void checkConnectionClose();									// Verifica se a conexão deve ser fechada
 
 	// Funções auxiliares
 	httpMethod parseMethod(const std::string &method); // Converte string para enum Method
 };
 
 #endif // REQUEST_HPP
+

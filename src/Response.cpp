@@ -19,9 +19,9 @@ std::string Response::generateResponse() const
 	return response_stream.str();
 }
 
-void Response::handleError(std::string _status_code, const std::string &error_page, const std::string &error_message, Logger &logger)
+void Response::handleError(std::string status_code, const std::string &error_page, const std::string &error_message, Logger &logger)
 {
-	_status_code = _status_code;
+	_status_code = status_code;
 	_reason_phrase = error_message;
 	_body = readFile(error_page);
 	std::stringstream ss;

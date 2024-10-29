@@ -25,6 +25,7 @@ SRCS		=	src/Config.cpp src/ConfigExtract.cpp \
 				src/Fds.cpp  src/ServerManager.cpp \
 				src/Request.cpp src/Response.cpp src/GetResponse.cpp \
 				src/main.cpp
+				# src/PostResponse.cpp
 # SRCS		=	src/CGI.cpp src/CGIUtils.cpp src/Config.cpp src/ConfigExtract.cpp \
 # 				src/ConfigUtils.cpp src/HttpError.cpp src/listDirectory.cpp \
 # 				src/Logger.cpp src/Request.cpp src/Response.cpp src/Server.cpp \

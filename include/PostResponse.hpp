@@ -8,12 +8,17 @@ class PostResponse : public Response {
     private:
         std::string _postData;
         std::string _responseData;
+		std::string _filePath;
+		std::string _fileDescription;
+		std::string _fileName;
+		ServerConfigs _server;
+		LocationConfigs _location;
 
     public:
-        PostResponse(int clientSocket, Logger &logger, const std::string &postData);
+        PostResponse(int clientSocket, Logger &logger, std::string filePath, std::string postData, ServerConfigs &server, LocationConfigs &location, std::string fileDescription="");
 
         std::string prepareResponse();
-        void sendResponse();
+		int createFile();
 };
 
 #endif // POSTRESPONSE_HPP

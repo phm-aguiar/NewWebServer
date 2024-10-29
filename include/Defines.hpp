@@ -46,8 +46,10 @@
 # define DEFAULT_ERROR_403 "./static/errors/403.html"
 # define DEFAULT_ERROR_404 "./static/errors/404.html"
 # define DEFAULT_ERROR_405 "./static/errors/405.html"
+# define DEFAULT_ERROR_413 "./static/errors/413.html"
 # define DEFAULT_ERROR_415 "./static/errors/415.html"
 # define DEFAULT_ERROR_500 "./static/errors/500.html"
+# define DEFAULT_ERROR_999 "./static/errors/999.html"
 
 /* CGI Macros */
 # define PHP_EXECUTABLE "/usr/bin/php"

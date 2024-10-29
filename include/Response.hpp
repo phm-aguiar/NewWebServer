@@ -21,9 +21,7 @@ class Response {
 		// utility functions
 		void handleError(std::string _status_code, const std::string &error_page, const std::string &error_message, Logger &logger);
 		void handleFileResponse(const std::string &path, Logger &logger);
-
        	virtual void prepareResponse(const LocationConfigs &location, const ServerConfigs &respconfig) = 0;
-        virtual void sendResponse() = 0;
 };
 
 #endif // RESPONSE_HPP

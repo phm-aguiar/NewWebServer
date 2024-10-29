@@ -29,8 +29,10 @@ ServerConfigs::ServerConfigs( void ) {
 	errorPages["403"] = DEFAULT_ERROR_403;
 	errorPages["404"] = DEFAULT_ERROR_404;
 	errorPages["405"] = DEFAULT_ERROR_405;
+	errorPages["413"] = DEFAULT_ERROR_413;
 	errorPages["415"] = DEFAULT_ERROR_415;
 	errorPages["500"] = DEFAULT_ERROR_500;
+	errorPages["999"] = DEFAULT_ERROR_999;
 }
 
 /* Constructor Method */
@@ -273,8 +275,6 @@ const LocationConfigs Config::getLocationConfig( const ServerConfigs &serverConf
 	LocationConfigs bestMatch;
 	size_t bestMatchLength = 0;
 	std::string formatUri = uri;
-	if(uri != "/")
-		formatUri = removeLastSlashes(uri);
 	for (std::vector<LocationConfigs>::const_iterator it = serverConfig.locations.begin();
 		it != serverConfig.locations.end(); ++it) {
 		if (formatUri == it->locationPath && it->locationPath.length() > bestMatchLength) {
